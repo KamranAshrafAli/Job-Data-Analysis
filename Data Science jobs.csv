@@ -1,0 +1,1507 @@
+work_year,job_title,job_category,salary,employee_residence,experience_level,employment_type,work_setting,company_location,company_size
+2022,Machine Learning Engineer,Analysis,186597,US,MI,CT,Remote,DE,L
+2020,Statistician,ML/AI,110630,JP,EX,FL,Remote,IN,M
+2022,Machine Learning Engineer,ML/AI,61280,UK,MI,CT,Hybrid,CN,L
+2022,Data Analyst,ML/AI,154130,DE,SE,FT,Hybrid,MX,L
+2023,Statistician,Data Science,172312,UK,MI,FT,Inperson,UK,S
+2023,Machine Learning Engineer,Engineering,36544,CN,MI,FT,,DE,M
+2022,Data Analyst,Data Science,178404,DE,EX,PT,Remote,DE,L
+2021,Data Scientist,ML/AI,187908,UK,EX,CT,Remote,JP,M
+2022,Data Analyst,,,UK,,FL,Inperson,DE,
+2022,Statistician,Engineering,31694,DE,EN,CT,Remote,US,S
+2022,Data Engineer,Data Science,157727,US,SE,FL,,US,S
+2022,Data Scientist,Data Science,118202,MX,EX,FL,Inperson,UK,M
+2023,Machine Learning Engineer,,143057,MX,,FL,Inperson,DE,
+2022,Statistician,Engineering,79294,JP,EN,CT,Inperson,JP,M
+2021,Data Engineer,Analysis,68769,JP,EN,FT,,CN,M
+2023,Data Analyst,Engineering,143289,MX,EX,PT,Inperson,UK,M
+2021,Data Engineer,Analysis,132885,US,EX,PT,Inperson,IN,L
+2021,Statistician,ML/AI,67855,UK,SE,FT,Remote,JP,M
+2021,Statistician,ML/AI,162532,JP,EX,PT,Remote,IN,L
+2021,Data Engineer,Data Science,77646,US,EX,FL,Inperson,UK,L
+2023,Data Analyst,ML/AI,170907,US,EX,PT,Hybrid,US,L
+2023,Data Engineer,ML/AI,143947,JP,SE,CT,Hybrid,JP,M
+2021,Statistician,Analysis,40910,MX,MI,FT,Hybrid,CN,S
+2021,Statistician,,,DE,,FT,Hybrid,JP,
+2023,Machine Learning Engineer,Engineering,38463,IN,EN,FT,Remote,UK,M
+2023,Machine Learning Engineer,Data Science,174408,MX,MI,FT,Hybrid,JP,M
+2023,Data Scientist,,56534,DE,,CT,,JP,
+2022,Statistician,Engineering,163441,MX,SE,FL,Inperson,UK,L
+2022,Machine Learning Engineer,Data Science,186453,UK,SE,FL,,MX,S
+2022,Data Engineer,,142296,DE,,FL,Hybrid,DE,
+2021,Data Analyst,Data Science,115094,CN,MI,PT,Hybrid,UK,S
+2022,Data Engineer,Data Science,117905,IN,MI,FL,Hybrid,JP,S
+2021,Data Analyst,Analysis,55407,MX,EN,PT,Remote,CN,L
+2021,Machine Learning Engineer,,,IN,,CT,Inperson,CN,
+2022,Data Scientist,ML/AI,197011,US,MI,PT,Remote,UK,L
+2021,Data Engineer,ML/AI,122303,CN,EX,FL,Inperson,JP,M
+2022,Data Engineer,Analysis,187242,UK,MI,FT,Inperson,IN,M
+2022,Data Engineer,Engineering,101908,US,EX,CT,Inperson,IN,S
+2023,Data Analyst,Engineering,154506,DE,EN,FL,Inperson,US,S
+2022,Machine Learning Engineer,ML/AI,52369,DE,EX,FL,Remote,MX,M
+2023,Data Engineer,ML/AI,35900,JP,SE,FL,Inperson,UK,M
+2022,Data Engineer,Analysis,70733,US,EN,CT,Hybrid,UK,S
+2022,Data Scientist,Engineering,117236,CN,EN,FT,,IN,S
+2023,Data Scientist,,161661,US,,FT,Inperson,IN,
+2023,Machine Learning Engineer,Data Science,90044,US,EN,FT,,IN,S
+2022,Machine Learning Engineer,Data Science,115553,US,EN,FL,Hybrid,CN,S
+2021,Statistician,Data Science,118435,IN,EX,PT,Inperson,CN,L
+2023,Data Scientist,Analysis,79008,JP,MI,FL,Inperson,US,L
+2021,Statistician,ML/AI,96794,MX,SE,FT,Inperson,US,L
+2021,Data Analyst,Analysis,109134,UK,MI,CT,Remote,DE,S
+2021,Statistician,Engineering,163938,UK,SE,PT,Inperson,CN,M
+2023,Data Engineer,ML/AI,82890,UK,EX,PT,Inperson,UK,M
+2021,Statistician,Data Science,145259,IN,EN,FL,Remote,US,S
+2023,Machine Learning Engineer,Analysis,59404,JP,EN,CT,Hybrid,JP,L
+2021,Data Analyst,Analysis,95223,CN,MI,PT,Remote,UK,M
+2022,Data Engineer,Data Science,30637,JP,MI,FT,Hybrid,DE,S
+2022,Statistician,Analysis,133186,IN,MI,FL,Remote,IN,L
+2023,Data Analyst,Data Science,45828,CN,EN,FL,Inperson,DE,L
+2022,Data Analyst,Engineering,131976,US,EN,FT,Remote,UK,L
+2022,Data Engineer,ML/AI,75097,DE,EX,FT,Inperson,IN,L
+2021,Statistician,Engineering,143271,US,SE,FT,Hybrid,DE,L
+2023,Data Analyst,Engineering,62022,UK,MI,PT,Inperson,DE,L
+2021,Data Analyst,Data Science,62202,US,EN,CT,Remote,UK,L
+2021,Data Scientist,Analysis,58704,IN,SE,PT,Remote,US,L
+2021,Data Analyst,Engineering,121411,UK,MI,CT,,JP,L
+2021,Data Scientist,,,DE,,FL,Inperson,DE,
+2021,Statistician,Engineering,53641,CN,SE,CT,,JP,S
+2021,Statistician,Analysis,67479,CN,SE,FT,Inperson,CN,M
+2021,Statistician,Analysis,52027,UK,SE,PT,Inperson,CN,S
+2023,Machine Learning Engineer,,72912,MX,,FT,Hybrid,UK,
+2022,Statistician,Engineering,138227,MX,EX,FL,Hybrid,MX,S
+2021,Data Analyst,ML/AI,158773,US,MI,PT,Inperson,UK,M
+2021,Data Engineer,Analysis,139658,MX,MI,PT,Hybrid,MX,M
+2021,Data Scientist,Data Science,72692,JP,SE,FT,Inperson,MX,M
+2021,Machine Learning Engineer,Engineering,128884,JP,EN,PT,Hybrid,MX,S
+2021,Statistician,ML/AI,62209,CN,SE,FT,Hybrid,US,M
+2021,Statistician,Analysis,86738,JP,EN,CT,Hybrid,MX,L
+2022,Data Engineer,ML/AI,67242,UK,EX,FL,Remote,IN,M
+2022,Data Engineer,Analysis,171013,JP,MI,FT,,JP,S
+2021,Machine Learning Engineer,,168145,IN,,FL,Remote,DE,
+2022,Data Scientist,,137966,CN,,PT,Inperson,IN,
+2023,Statistician,Engineering,198899,DE,EX,FL,Inperson,CN,M
+2021,Machine Learning Engineer,Engineering,198168,JP,EX,FL,,CN,S
+2023,Data Analyst,Analysis,96457,IN,MI,FL,Remote,JP,M
+2023,Data Analyst,,159257,IN,,PT,Inperson,JP,
+2021,Machine Learning Engineer,ML/AI,98309,UK,SE,CT,Remote,MX,L
+2022,Statistician,Data Science,116496,CN,EN,CT,Remote,IN,S
+2023,Machine Learning Engineer,Analysis,191340,UK,MI,CT,Inperson,IN,M
+2021,Statistician,ML/AI,140078,DE,EX,FT,Remote,US,L
+2023,Data Engineer,Analysis,31865,DE,EX,FT,Remote,DE,L
+2023,Machine Learning Engineer,,126242,US,,PT,Inperson,DE,
+2023,Statistician,Analysis,58887,DE,EX,CT,,DE,L
+2023,Machine Learning Engineer,Engineering,126047,CN,EN,FL,,MX,S
+2022,Machine Learning Engineer,,194551,MX,,CT,Remote,CN,
+2023,Statistician,Analysis,158863,MX,EX,FT,Hybrid,CN,L
+2023,Statistician,Data Science,70478,CN,MI,PT,Inperson,IN,S
+2023,Data Scientist,Data Science,187473,UK,EN,CT,Inperson,US,S
+2022,Machine Learning Engineer,Engineering,189574,IN,EN,FT,Inperson,UK,M
+2023,Data Analyst,Data Science,141750,US,SE,FT,Remote,US,L
+2023,Machine Learning Engineer,Analysis,43394,MX,EN,FL,Inperson,CN,M
+2022,Machine Learning Engineer,,170334,MX,,CT,Remote,MX,
+2022,Statistician,Analysis,34487,DE,MI,FL,Remote,IN,S
+2022,Machine Learning Engineer,Engineering,188413,IN,EX,CT,Inperson,US,L
+2023,Machine Learning Engineer,Engineering,138924,UK,EN,PT,Inperson,IN,S
+2022,Data Analyst,Engineering,174642,JP,SE,CT,Remote,JP,L
+2022,Statistician,Data Science,87268,US,EN,FL,Inperson,JP,S
+2023,Machine Learning Engineer,,59605,CN,,FL,Hybrid,UK,
+2022,Data Engineer,ML/AI,101602,IN,SE,FT,Remote,CN,M
+2023,Data Scientist,Analysis,187795,UK,SE,CT,Remote,MX,L
+2021,Data Analyst,,108206,UK,,CT,Inperson,JP,
+2022,Machine Learning Engineer,Analysis,123375,US,MI,PT,Inperson,UK,S
+2021,Data Engineer,Engineering,123937,US,SE,FT,Remote,DE,L
+2023,Machine Learning Engineer,ML/AI,86921,DE,EX,FL,Remote,IN,L
+2022,Machine Learning Engineer,Analysis,90760,DE,MI,CT,Remote,MX,L
+2023,Statistician,Data Science,171321,CN,EX,FT,Inperson,DE,L
+2021,Statistician,Data Science,97847,CN,EX,PT,Remote,DE,M
+2023,Statistician,Analysis,127547,US,MI,FT,Hybrid,UK,S
+2022,Data Engineer,Engineering,73839,US,EN,CT,Hybrid,IN,L
+2022,Machine Learning Engineer,ML/AI,69673,IN,EX,CT,Inperson,UK,S
+2021,Data Scientist,Analysis,33642,DE,MI,PT,Remote,US,M
+2023,Data Analyst,Data Science,167410,UK,EX,PT,Remote,DE,M
+2022,Statistician,ML/AI,81761,MX,SE,PT,Hybrid,IN,L
+2021,Statistician,Data Science,39622,MX,EX,FL,Remote,DE,S
+2022,Machine Learning Engineer,Data Science,78423,MX,EX,FT,Inperson,US,S
+2022,Machine Learning Engineer,Analysis,72873,DE,EX,FT,Inperson,CN,S
+2023,Data Engineer,Data Science,77565,DE,SE,FT,Inperson,US,M
+2022,Data Engineer,ML/AI,168878,US,EX,FL,Remote,CN,M
+2023,Statistician,Engineering,30757,MX,MI,FT,Remote,IN,L
+2022,Machine Learning Engineer,Analysis,182542,US,EX,PT,,IN,S
+2021,Data Scientist,ML/AI,36220,DE,MI,FT,,MX,S
+2022,Data Analyst,Analysis,138408,JP,EX,FL,Inperson,US,M
+2023,Machine Learning Engineer,Data Science,121851,JP,EX,FL,Remote,DE,L
+2023,Machine Learning Engineer,,123329,CN,,FT,Remote,JP,
+2021,Data Engineer,ML/AI,157636,DE,EN,FL,Inperson,DE,L
+2022,Data Analyst,ML/AI,183577,MX,EN,FL,Inperson,JP,M
+2022,Statistician,Engineering,58288,JP,SE,FT,Hybrid,UK,S
+2021,Machine Learning Engineer,ML/AI,104492,CN,MI,FL,Hybrid,IN,L
+2022,Statistician,ML/AI,49109,CN,SE,FL,Inperson,US,L
+2022,Machine Learning Engineer,Analysis,164569,DE,MI,FT,,UK,S
+2023,Statistician,Data Science,87326,CN,SE,PT,Hybrid,DE,L
+2022,Data Analyst,ML/AI,39864,US,SE,PT,Inperson,JP,M
+2022,Data Engineer,Engineering,117562,US,EX,FL,Remote,CN,L
+2021,Data Analyst,ML/AI,104310,US,EX,CT,Inperson,IN,S
+2021,Data Scientist,Data Science,149454,UK,EX,CT,Remote,JP,M
+2023,Data Engineer,,51017,US,,FT,Hybrid,DE,
+2022,Data Analyst,Analysis,162893,MX,EX,FT,Remote,MX,S
+2022,Data Scientist,Data Science,80337,US,SE,PT,,DE,S
+2022,Machine Learning Engineer,ML/AI,113557,DE,MI,CT,Inperson,US,S
+2023,Machine Learning Engineer,Analysis,40372,JP,EN,FT,Remote,UK,S
+2020,Statistician,,130050,MX,,CT,Hybrid,IN,
+2021,Data Engineer,ML/AI,123938,JP,MI,CT,Inperson,US,L
+2020,Machine Learning Engineer,,101333,US,,FL,Inperson,JP,
+2022,Data Engineer,Engineering,46283,US,SE,FL,Inperson,MX,M
+2022,Machine Learning Engineer,Analysis,70857,US,MI,CT,Inperson,UK,S
+2020,Statistician,Engineering,81772,CN,MI,PT,Inperson,IN,S
+2022,Data Analyst,ML/AI,125856,DE,EN,FT,Inperson,JP,M
+2022,Statistician,Analysis,192333,DE,EN,FT,Inperson,IN,L
+2020,Data Scientist,,36107,DE,,PT,Hybrid,IN,
+2020,Machine Learning Engineer,Data Science,65561,JP,EX,FL,Hybrid,CN,L
+2022,Data Scientist,Analysis,196340,MX,MI,FL,Inperson,CN,S
+2022,Data Scientist,ML/AI,192680,MX,EX,PT,,MX,M
+2022,Data Engineer,Data Science,43138,UK,EN,PT,Inperson,UK,M
+2021,Machine Learning Engineer,Engineering,198765,JP,MI,FL,Inperson,CN,M
+2021,Data Scientist,Analysis,154143,DE,EX,CT,Inperson,JP,L
+2021,Data Analyst,Analysis,182320,IN,SE,FL,Remote,CN,M
+2020,Data Scientist,ML/AI,48632,UK,SE,CT,Hybrid,MX,M
+2021,Data Analyst,Data Science,77547,US,SE,FT,Remote,MX,L
+2020,Data Engineer,Analysis,42100,CN,MI,FT,Remote,US,S
+2020,Data Scientist,,77930,JP,,CT,Remote,US,
+2021,Statistician,Data Science,83025,CN,MI,CT,Remote,US,L
+2021,Data Engineer,Analysis,108944,UK,MI,FL,Inperson,MX,M
+2021,Data Analyst,Data Science,180441,MX,MI,PT,Hybrid,IN,S
+2022,Data Engineer,Data Science,179532,IN,EX,CT,Remote,DE,S
+2021,Data Scientist,Data Science,121641,UK,EX,FT,Hybrid,UK,S
+2022,Machine Learning Engineer,ML/AI,126920,JP,SE,FL,Inperson,US,L
+2020,Machine Learning Engineer,Data Science,162533,DE,EX,FT,Inperson,UK,S
+2022,Data Analyst,Data Science,72362,US,EX,FL,Hybrid,CN,M
+2021,Data Analyst,,58610,DE,,PT,Inperson,IN,
+2020,Machine Learning Engineer,Engineering,134334,DE,SE,PT,Hybrid,UK,L
+2020,Data Analyst,,182067,JP,,FT,Remote,US,
+2020,Data Engineer,Data Science,37717,DE,SE,CT,Inperson,US,M
+2022,Statistician,Engineering,94022,DE,EX,CT,Inperson,MX,L
+2021,Statistician,Engineering,81645,JP,MI,FT,Hybrid,IN,S
+2020,Data Engineer,Analysis,59550,JP,SE,CT,Inperson,IN,M
+2020,Statistician,Data Science,164648,IN,EN,CT,Remote,JP,M
+2020,Data Scientist,Engineering,70868,DE,EX,FT,Inperson,IN,L
+2022,Data Engineer,ML/AI,128039,UK,EN,FT,Inperson,DE,S
+2022,Data Analyst,Analysis,166800,MX,EN,PT,Inperson,DE,M
+2021,Data Engineer,Analysis,62800,US,EX,FT,Hybrid,US,L
+2022,Machine Learning Engineer,Data Science,40886,CN,EN,PT,Remote,CN,L
+2020,Data Analyst,Data Science,75805,US,EX,PT,Remote,IN,L
+2021,Machine Learning Engineer,Analysis,62532,JP,EN,FL,Inperson,DE,L
+2020,Data Analyst,ML/AI,142765,CN,MI,CT,Inperson,MX,L
+2020,Statistician,Data Science,58688,JP,SE,FT,Hybrid,DE,M
+2022,Data Engineer,Data Science,172135,MX,MI,CT,Remote,MX,L
+2021,Data Scientist,Analysis,53089,MX,MI,FL,Inperson,JP,S
+2022,Data Analyst,Analysis,63585,IN,EN,FT,Remote,CN,S
+2022,Data Analyst,Data Science,32438,DE,SE,FT,Inperson,MX,M
+2021,Machine Learning Engineer,Engineering,123095,JP,SE,FL,Inperson,CN,L
+2020,Statistician,,184284,MX,,CT,Hybrid,IN,
+2020,Machine Learning Engineer,Engineering,178055,JP,EN,PT,Remote,JP,M
+2021,Machine Learning Engineer,Analysis,44026,US,MI,FL,Remote,CN,L
+2020,Statistician,Engineering,150168,DE,EX,FL,Inperson,CN,L
+2021,Data Scientist,ML/AI,80998,IN,EX,FT,Inperson,MX,S
+2021,Machine Learning Engineer,Analysis,87013,MX,EX,PT,Hybrid,UK,L
+2022,Machine Learning Engineer,Data Science,81039,JP,SE,FL,Inperson,JP,M
+2021,Data Analyst,Data Science,195675,JP,EX,CT,Remote,CN,S
+2022,Statistician,Analysis,136446,JP,MI,FL,Hybrid,UK,M
+2020,Data Engineer,Analysis,128452,US,EX,CT,Remote,UK,M
+2020,Data Scientist,ML/AI,174177,MX,SE,FT,Hybrid,CN,L
+2020,Data Scientist,,97182,JP,,FL,Remote,MX,
+2020,Statistician,Data Science,82147,JP,EX,CT,Inperson,IN,S
+2022,Data Analyst,ML/AI,105400,US,SE,FT,Remote,UK,M
+2020,Data Analyst,Data Science,76434,JP,EX,FT,Remote,UK,M
+2021,Statistician,Engineering,56515,DE,SE,FT,Hybrid,JP,L
+2021,Data Analyst,Analysis,88001,DE,EN,FL,Remote,IN,M
+2021,Data Scientist,Engineering,178032,US,EN,FT,Inperson,MX,M
+2022,Data Scientist,Data Science,139591,DE,MI,FT,Hybrid,IN,M
+2020,Data Engineer,Engineering,75778,CN,EN,CT,Hybrid,UK,M
+2020,Statistician,,192013,CN,,FT,Remote,MX,
+2020,Machine Learning Engineer,Data Science,125849,CN,SE,FL,Hybrid,JP,S
+2022,Machine Learning Engineer,,133083,IN,,PT,Inperson,JP,
+2021,Data Engineer,Analysis,131276,JP,EX,FT,Remote,JP,M
+2021,Data Engineer,Engineering,86908,IN,EX,FL,Inperson,JP,S
+2020,Data Analyst,ML/AI,179501,DE,MI,FT,Remote,US,L
+2021,Data Engineer,ML/AI,124048,US,MI,FL,Remote,MX,L
+2021,Data Engineer,Data Science,175919,CN,EX,FT,Hybrid,CN,S
+2022,Machine Learning Engineer,,64256,US,,CT,Hybrid,UK,
+2022,Data Analyst,,157025,IN,,PT,Hybrid,UK,
+2022,Data Engineer,Data Science,189846,DE,SE,PT,Remote,UK,M
+2022,Data Engineer,,157343,MX,,FL,Hybrid,IN,
+2020,Data Analyst,Analysis,39127,JP,EX,FL,Inperson,MX,S
+2022,Statistician,Analysis,148251,MX,EN,PT,Hybrid,IN,M
+2021,Data Analyst,Engineering,189277,DE,EX,CT,Inperson,JP,S
+2020,Machine Learning Engineer,Analysis,111163,CN,SE,CT,Hybrid,CN,L
+2021,Statistician,Data Science,148279,DE,EX,FT,Remote,MX,M
+2021,Data Scientist,Data Science,131824,US,SE,CT,Hybrid,IN,L
+2021,Data Analyst,Data Science,68664,UK,EN,PT,Inperson,DE,M
+2022,Machine Learning Engineer,Data Science,86795,CN,MI,PT,Inperson,MX,M
+2022,Statistician,Engineering,151729,MX,EN,CT,Hybrid,UK,M
+2020,Data Analyst,,193405,JP,,CT,Inperson,UK,
+2020,Data Engineer,ML/AI,66079,CN,MI,PT,Remote,US,L
+2022,Data Analyst,Analysis,114225,CN,MI,PT,Hybrid,US,S
+2021,Data Scientist,Data Science,54259,JP,EX,PT,Inperson,DE,S
+2020,Data Analyst,ML/AI,56571,MX,EN,PT,Hybrid,US,L
+2022,Statistician,Engineering,81119,CN,SE,PT,Hybrid,CN,L
+2022,Statistician,Data Science,38009,US,SE,CT,Hybrid,JP,S
+2022,Data Analyst,Data Science,140210,DE,MI,CT,Hybrid,JP,S
+2021,Statistician,,91829,US,,FT,Hybrid,MX,
+2022,Data Engineer,Engineering,68230,DE,SE,FT,Remote,UK,L
+2022,Data Analyst,ML/AI,141364,UK,EX,FL,Hybrid,JP,S
+2022,Data Engineer,Engineering,86049,CN,MI,FT,Remote,US,L
+2022,Data Engineer,,131762,UK,,CT,Hybrid,DE,
+2020,Machine Learning Engineer,Analysis,153273,IN,MI,FT,Inperson,CN,L
+2020,Data Analyst,,149466,MX,,FT,Hybrid,JP,
+2022,Statistician,Analysis,197570,DE,SE,CT,Hybrid,UK,M
+2021,Data Engineer,Analysis,149053,US,EN,PT,Inperson,UK,M
+2020,Machine Learning Engineer,Engineering,189892,US,EX,CT,Remote,CN,L
+2022,Data Analyst,ML/AI,125018,CN,MI,CT,Remote,US,L
+2020,Data Analyst,Engineering,62795,US,EN,FL,Remote,JP,M
+2020,Data Scientist,Data Science,143812,IN,EN,FL,Remote,US,L
+2021,Data Scientist,ML/AI,115411,JP,EN,FL,Inperson,UK,L
+2022,Data Engineer,Analysis,69191,US,EN,PT,Remote,DE,M
+2022,Data Scientist,Analysis,42453,CN,EN,FT,Remote,JP,S
+2021,Data Engineer,Data Science,150848,UK,MI,FL,Remote,MX,L
+2021,Statistician,ML/AI,144165,MX,SE,CT,Remote,DE,L
+2022,Data Engineer,Data Science,79993,US,EN,FL,Remote,CN,S
+2022,Data Scientist,Data Science,140780,US,SE,CT,Hybrid,JP,S
+2021,Statistician,Engineering,75706,US,SE,PT,Hybrid,UK,L
+2020,Data Scientist,Data Science,121434,CN,EX,FL,Remote,JP,L
+2020,Data Engineer,ML/AI,80799,MX,MI,CT,Inperson,UK,S
+2021,Machine Learning Engineer,Data Science,149586,JP,EN,FT,Inperson,IN,L
+2020,Data Analyst,ML/AI,90964,US,SE,PT,Hybrid,UK,S
+2021,Data Scientist,Analysis,127379,JP,EX,CT,Inperson,UK,S
+2020,Data Engineer,Data Science,139987,JP,SE,FT,Hybrid,CN,L
+2020,Statistician,ML/AI,91926,MX,EN,FT,Remote,JP,L
+2022,Data Scientist,Analysis,33801,MX,MI,CT,Remote,DE,S
+2022,Data Scientist,ML/AI,70144,IN,MI,FL,Inperson,UK,L
+2020,Data Analyst,Analysis,124478,UK,EN,FT,Inperson,JP,S
+2020,Data Engineer,,171220,US,,PT,Inperson,UK,
+2022,Machine Learning Engineer,Data Science,142364,US,EX,FT,Remote,US,M
+2022,Statistician,Data Science,112819,US,MI,FL,Remote,US,S
+2022,Data Engineer,Analysis,180933,JP,MI,PT,Inperson,US,S
+2021,Statistician,Engineering,183552,MX,SE,PT,Inperson,US,L
+2020,Data Scientist,ML/AI,48637,DE,SE,PT,Inperson,DE,S
+2022,Data Analyst,Engineering,74621,UK,SE,CT,Inperson,CN,S
+2020,Data Analyst,ML/AI,77431,CN,EX,FT,Hybrid,UK,L
+2021,Machine Learning Engineer,,129937,US,,FL,Inperson,US,
+2021,Data Analyst,Data Science,86172,DE,EX,CT,Inperson,JP,M
+2022,Data Scientist,Analysis,55437,DE,EN,CT,Hybrid,US,S
+2021,Machine Learning Engineer,,169221,MX,,PT,Hybrid,IN,
+2020,Data Engineer,Data Science,175743,DE,SE,CT,Hybrid,IN,M
+2022,Data Analyst,Data Science,53119,UK,EX,FT,Hybrid,CN,S
+2020,Machine Learning Engineer,ML/AI,177351,DE,EX,CT,Inperson,DE,L
+2020,Data Scientist,Data Science,98835,CN,EX,CT,Remote,MX,S
+2021,Statistician,ML/AI,165875,US,MI,PT,Remote,IN,L
+2021,Statistician,,90805,CN,,PT,Remote,JP,
+2021,Data Scientist,,48201,US,,CT,Remote,US,
+2021,Data Scientist,ML/AI,58634,IN,SE,PT,Remote,IN,L
+2021,Statistician,Engineering,175832,JP,EN,FL,Remote,IN,L
+2022,Machine Learning Engineer,Data Science,171898,DE,EX,FL,Hybrid,DE,M
+2020,Statistician,Data Science,116821,CN,EX,FL,Hybrid,IN,L
+2020,Data Scientist,Data Science,75775,JP,EN,CT,Remote,US,M
+2020,Data Analyst,Data Science,156546,JP,SE,FT,Inperson,CN,S
+2020,Data Engineer,Engineering,144090,JP,EN,FT,Inperson,MX,M
+2021,Data Analyst,Engineering,104676,JP,EN,PT,Remote,CN,S
+2020,Data Analyst,Engineering,36798,JP,EN,FT,Inperson,CN,L
+2022,Data Scientist,Engineering,107160,US,EN,FT,Hybrid,MX,L
+2022,Statistician,Data Science,107751,UK,SE,CT,Hybrid,UK,M
+2020,Machine Learning Engineer,ML/AI,70888,DE,EX,PT,Inperson,US,S
+2020,Data Analyst,Analysis,79047,DE,EN,FT,Remote,IN,M
+2022,Statistician,Engineering,139640,US,EN,FL,Hybrid,IN,L
+2022,Machine Learning Engineer,ML/AI,132614,CN,MI,PT,Inperson,MX,L
+2021,Data Analyst,Engineering,75955,US,SE,PT,Inperson,IN,S
+2022,Machine Learning Engineer,Data Science,163054,MX,EN,PT,Hybrid,DE,S
+2021,Statistician,,194936,JP,,FL,Hybrid,JP,
+2021,Data Engineer,ML/AI,151298,UK,EN,FT,Remote,US,L
+2021,Statistician,ML/AI,115490,DE,SE,FL,Inperson,CN,S
+2021,Data Scientist,ML/AI,69265,CN,MI,PT,Remote,IN,M
+2021,Machine Learning Engineer,Data Science,76313,IN,MI,PT,Hybrid,MX,M
+2020,Data Engineer,Data Science,74350,US,SE,CT,Inperson,UK,S
+2022,Machine Learning Engineer,Analysis,176450,IN,MI,CT,Hybrid,DE,S
+2021,Machine Learning Engineer,ML/AI,139168,DE,MI,CT,Hybrid,JP,S
+2022,Data Analyst,Analysis,57924,US,EN,CT,Hybrid,IN,L
+2022,Data Scientist,Engineering,112593,DE,MI,PT,Remote,CN,M
+2021,Machine Learning Engineer,Analysis,147490,US,EX,FL,Hybrid,US,S
+2020,Statistician,Engineering,37312,CN,SE,CT,Remote,UK,M
+2021,Statistician,Engineering,60353,DE,EN,FL,Hybrid,CN,L
+2020,Data Analyst,Analysis,143744,MX,MI,CT,Hybrid,DE,L
+2022,Data Scientist,ML/AI,46192,IN,EX,FT,Inperson,US,S
+2023,Data Scientist,Engineering,178522,UK,EN,CT,Hybrid,MX,S
+2023,Statistician,ML/AI,166504,CN,SE,FL,Inperson,US,S
+2023,Data Engineer,Data Science,126548,MX,MI,CT,Inperson,DE,S
+2022,Data Analyst,,128991,CN,,FT,Remote,MX,
+2022,Data Analyst,Data Science,108711,US,SE,FL,Inperson,US,S
+2023,Statistician,Analysis,171367,IN,MI,FL,Inperson,MX,M
+2023,Statistician,ML/AI,36774,DE,MI,FL,Hybrid,MX,L
+2021,Data Engineer,Analysis,145107,IN,EN,PT,Hybrid,UK,L
+2023,Data Engineer,Engineering,173262,CN,SE,FL,Remote,UK,M
+2021,Data Scientist,Data Science,192358,US,MI,PT,Inperson,MX,M
+2023,Data Analyst,Engineering,102427,IN,SE,FT,Inperson,US,S
+2021,Data Analyst,Analysis,117513,MX,MI,FL,Remote,IN,S
+2022,Statistician,ML/AI,94014,DE,SE,FL,Hybrid,US,S
+2023,Data Scientist,ML/AI,85256,JP,EN,FL,Inperson,IN,L
+2023,Data Analyst,Engineering,128743,CN,SE,FT,Remote,US,M
+2023,Data Scientist,Engineering,121190,UK,MI,PT,Hybrid,CN,M
+2023,Data Scientist,Data Science,81715,UK,EX,CT,Remote,JP,M
+2021,Statistician,Analysis,37466,CN,EN,FT,Remote,UK,M
+2023,Data Scientist,Engineering,47637,JP,EN,FT,Inperson,US,S
+2022,Data Engineer,Data Science,160424,US,EX,FT,Hybrid,UK,S
+2022,Data Engineer,,98745,IN,,PT,Inperson,DE,
+2023,Machine Learning Engineer,ML/AI,66317,IN,EN,PT,Inperson,JP,S
+2022,Statistician,Data Science,164150,JP,EX,PT,Hybrid,IN,L
+2023,Machine Learning Engineer,Data Science,188371,MX,EX,PT,Hybrid,DE,S
+2023,Data Engineer,,33543,JP,,PT,Hybrid,JP,
+2022,Machine Learning Engineer,Analysis,152790,DE,SE,FL,Inperson,DE,L
+2023,Statistician,ML/AI,81052,DE,MI,CT,Hybrid,UK,M
+2022,Statistician,Analysis,52064,UK,EX,CT,Hybrid,CN,M
+2021,Data Scientist,Data Science,102287,US,SE,PT,Hybrid,JP,S
+2023,Data Analyst,Analysis,110442,US,MI,PT,Remote,DE,M
+2021,Data Scientist,Data Science,150550,MX,EN,FL,Hybrid,IN,L
+2022,Statistician,Analysis,44425,JP,SE,PT,Inperson,JP,L
+2021,Data Engineer,Engineering,81481,UK,MI,FL,Remote,JP,S
+2021,Data Engineer,Analysis,107347,UK,SE,FL,Inperson,DE,L
+2022,Data Scientist,Data Science,102317,DE,EN,FT,Remote,CN,M
+2021,Statistician,ML/AI,80530,IN,EN,FT,Hybrid,MX,S
+2021,Data Engineer,ML/AI,111099,MX,SE,PT,Remote,MX,S
+2022,Statistician,,55888,US,,FL,Inperson,MX,
+2021,Data Engineer,Data Science,188563,MX,MI,PT,Remote,MX,M
+2022,Statistician,Analysis,193424,UK,SE,FT,Hybrid,US,L
+2021,Machine Learning Engineer,ML/AI,182748,DE,SE,FT,Hybrid,IN,M
+2022,Statistician,ML/AI,95836,DE,EN,FT,Inperson,IN,S
+2022,Statistician,ML/AI,198535,DE,MI,FT,Remote,MX,L
+2021,Data Scientist,,140478,MX,,FT,Inperson,DE,
+2021,Machine Learning Engineer,Data Science,78990,IN,SE,PT,Inperson,CN,M
+2021,Data Analyst,Data Science,116544,UK,EN,PT,Inperson,UK,S
+2023,Data Scientist,Data Science,93627,JP,EN,FT,Hybrid,UK,M
+2023,Data Analyst,Data Science,181293,JP,MI,PT,Remote,MX,S
+2023,Data Engineer,Data Science,158345,DE,MI,FT,Hybrid,US,S
+2022,Data Analyst,Engineering,102843,DE,EN,FT,Hybrid,US,S
+2021,Statistician,Analysis,59251,IN,MI,FT,Hybrid,DE,M
+2022,Data Analyst,Engineering,104418,DE,EX,PT,Remote,CN,M
+2023,Data Scientist,ML/AI,82620,CN,EX,PT,Hybrid,UK,M
+2021,Data Scientist,Engineering,40040,UK,EN,FL,Hybrid,IN,M
+2022,Data Analyst,Data Science,167041,DE,SE,PT,Hybrid,CN,M
+2021,Data Scientist,Engineering,43162,DE,EN,PT,Remote,UK,L
+2022,Data Scientist,Data Science,95435,UK,EN,CT,Remote,CN,S
+2021,Data Analyst,,148504,US,,FT,Inperson,DE,
+2023,Machine Learning Engineer,Data Science,104667,CN,SE,FT,Hybrid,UK,L
+2023,Machine Learning Engineer,ML/AI,158658,CN,EX,PT,Hybrid,JP,L
+2021,Data Engineer,Data Science,35037,JP,MI,PT,Remote,MX,S
+2022,Data Scientist,Engineering,90526,DE,EX,FL,Remote,DE,S
+2023,Data Analyst,ML/AI,117914,UK,MI,CT,Hybrid,JP,S
+2023,Data Scientist,,175765,JP,,FT,Inperson,CN,
+2023,Statistician,ML/AI,122162,MX,EN,FT,Inperson,DE,S
+2021,Data Scientist,Analysis,89090,MX,EN,PT,Hybrid,IN,S
+2021,Data Scientist,Analysis,163523,IN,MI,PT,Inperson,DE,S
+2022,Machine Learning Engineer,Analysis,95560,MX,SE,CT,Inperson,DE,L
+2022,Data Analyst,Engineering,167034,MX,SE,FT,Hybrid,MX,M
+2022,Data Scientist,Engineering,119552,US,SE,CT,Inperson,DE,S
+2021,Machine Learning Engineer,ML/AI,46444,DE,SE,FT,Remote,DE,L
+2021,Data Engineer,ML/AI,70443,US,EN,PT,Hybrid,US,M
+2022,Machine Learning Engineer,ML/AI,177578,DE,EX,CT,Remote,JP,S
+2022,Machine Learning Engineer,ML/AI,199456,DE,EX,FL,Hybrid,DE,L
+2021,Machine Learning Engineer,Data Science,127229,DE,MI,PT,Remote,DE,M
+2022,Data Scientist,Analysis,142314,US,SE,FL,Inperson,CN,S
+2023,Data Scientist,Data Science,54248,CN,EN,FL,Remote,US,S
+2021,Data Engineer,Data Science,157521,IN,EN,FL,Remote,UK,L
+2022,Statistician,Data Science,98008,CN,EN,FT,Remote,CN,S
+2021,Statistician,Data Science,90309,UK,MI,FL,Remote,CN,L
+2023,Statistician,,73237,UK,,FT,Remote,MX,
+2021,Data Engineer,Data Science,156967,MX,MI,CT,Hybrid,MX,L
+2021,Statistician,ML/AI,196804,CN,MI,PT,Remote,US,M
+2021,Statistician,Engineering,38104,IN,MI,FT,Remote,US,L
+2021,Machine Learning Engineer,,113230,MX,,FT,Hybrid,MX,
+2023,Data Scientist,Engineering,120266,IN,EN,CT,Hybrid,US,S
+2021,Data Scientist,,64980,DE,,CT,Inperson,CN,
+2021,Machine Learning Engineer,ML/AI,104990,DE,EX,PT,Remote,CN,L
+2022,Machine Learning Engineer,Engineering,39554,UK,EN,CT,Remote,MX,S
+2021,Machine Learning Engineer,Analysis,121049,DE,SE,FT,Inperson,DE,L
+2022,Data Scientist,Data Science,192057,MX,SE,PT,Remote,US,L
+2023,Statistician,ML/AI,78167,DE,MI,PT,Inperson,US,S
+2023,Machine Learning Engineer,,97238,IN,,PT,Hybrid,MX,
+2023,Data Engineer,Data Science,47038,US,MI,FL,Remote,CN,M
+2023,Machine Learning Engineer,Analysis,183291,CN,EX,FL,Remote,CN,S
+2022,Data Analyst,Analysis,165343,JP,MI,FT,Hybrid,US,S
+2021,Machine Learning Engineer,,57397,JP,,FL,Remote,DE,
+2023,Data Scientist,ML/AI,104491,DE,MI,CT,Hybrid,IN,L
+2021,Machine Learning Engineer,Analysis,59602,DE,SE,PT,Hybrid,IN,L
+2022,Data Analyst,,84471,CN,,FT,Inperson,UK,
+2022,Data Engineer,ML/AI,127081,JP,EN,CT,Hybrid,DE,M
+2022,Statistician,ML/AI,53116,IN,MI,PT,Inperson,CN,L
+2023,Machine Learning Engineer,Data Science,36674,JP,EN,CT,Hybrid,US,L
+2021,Data Analyst,Engineering,178541,JP,EN,FL,Inperson,MX,L
+2021,Data Analyst,ML/AI,35446,MX,EN,CT,Inperson,US,M
+2021,Data Engineer,Engineering,154809,JP,EN,FL,Inperson,US,L
+2022,Data Scientist,Engineering,50760,DE,EX,CT,Inperson,IN,L
+2023,Machine Learning Engineer,Analysis,31963,MX,EX,FT,Remote,MX,M
+2022,Data Analyst,ML/AI,138281,DE,MI,FL,Hybrid,CN,M
+2022,Data Engineer,ML/AI,188334,CN,MI,FL,Hybrid,MX,L
+2021,Statistician,ML/AI,35177,JP,EX,PT,Hybrid,US,S
+2022,Data Analyst,Engineering,41160,DE,MI,FL,Hybrid,US,S
+2021,Data Engineer,Data Science,132876,CN,MI,PT,Inperson,IN,M
+2023,Data Scientist,Engineering,37543,JP,EX,FL,Remote,US,L
+2021,Data Scientist,ML/AI,137211,IN,EX,FL,Hybrid,MX,M
+2023,Data Analyst,ML/AI,69278,DE,MI,FL,Hybrid,UK,M
+2021,Data Analyst,ML/AI,190679,US,EX,FL,Hybrid,CN,S
+2022,Machine Learning Engineer,Engineering,178293,CN,SE,PT,Inperson,MX,M
+2022,Data Engineer,ML/AI,164395,DE,EN,FT,Hybrid,JP,M
+2023,Data Analyst,Analysis,82105,IN,EN,CT,Hybrid,MX,L
+2023,Machine Learning Engineer,ML/AI,106151,IN,SE,FL,Remote,MX,L
+2023,Machine Learning Engineer,Data Science,96968,DE,SE,FL,Inperson,UK,M
+2021,Data Analyst,Analysis,184310,UK,MI,FT,Remote,DE,M
+2021,Data Scientist,ML/AI,93830,CN,MI,PT,Hybrid,MX,L
+2023,Data Engineer,Analysis,103967,JP,EN,CT,Inperson,UK,S
+2022,Data Engineer,ML/AI,169402,JP,MI,FT,Hybrid,UK,L
+2021,Data Scientist,Data Science,38611,IN,EN,FT,Hybrid,MX,L
+2021,Data Analyst,ML/AI,43872,DE,MI,FT,Inperson,MX,L
+2021,Data Engineer,Analysis,79455,UK,MI,FT,Remote,IN,L
+2023,Data Analyst,Data Science,64930,CN,EN,FL,Inperson,DE,L
+2020,Data Analyst,Engineering,102022,US,SE,CT,Inperson,MX,S
+2020,Machine Learning Engineer,Data Science,92714,JP,SE,FL,Remote,CN,L
+2020,Data Scientist,Data Science,154906,MX,MI,FT,Inperson,MX,L
+2020,Data Analyst,Data Science,138722,CN,SE,CT,Remote,CN,S
+2022,Statistician,Analysis,96704,CN,MI,FT,Remote,UK,M
+2022,Data Scientist,,30415,UK,,PT,Inperson,JP,
+2020,Data Engineer,ML/AI,106441,CN,EX,FT,Inperson,UK,L
+2021,Machine Learning Engineer,Data Science,141736,JP,EX,FT,Remote,US,M
+2020,Data Engineer,,100779,DE,,PT,Remote,IN,
+2022,Data Engineer,ML/AI,118444,JP,SE,FL,Remote,US,M
+2022,Data Scientist,ML/AI,134448,US,EN,CT,Remote,DE,S
+2021,Data Engineer,,39888,DE,,FT,Remote,DE,
+2022,Data Analyst,,154790,IN,,FT,Inperson,IN,
+2020,Data Engineer,Analysis,88765,UK,EN,PT,Hybrid,UK,M
+2021,Machine Learning Engineer,Data Science,45935,JP,SE,CT,Inperson,DE,M
+2020,Machine Learning Engineer,Data Science,103002,DE,EN,PT,Hybrid,JP,M
+2020,Statistician,ML/AI,110631,CN,SE,FT,Remote,MX,L
+2021,Machine Learning Engineer,Engineering,31320,DE,MI,FL,Inperson,IN,S
+2020,Data Engineer,Data Science,76032,JP,EX,FL,Hybrid,US,L
+2022,Machine Learning Engineer,Analysis,107763,IN,EX,CT,Remote,JP,S
+2020,Data Scientist,Data Science,178979,JP,MI,FT,Inperson,MX,L
+2021,Machine Learning Engineer,Analysis,68002,IN,EN,PT,Hybrid,MX,L
+2021,Data Analyst,ML/AI,68912,CN,EX,FT,Inperson,CN,S
+2021,Data Scientist,Engineering,30552,JP,SE,PT,Hybrid,IN,L
+2020,Statistician,Data Science,50140,DE,SE,PT,Inperson,JP,M
+2021,Data Analyst,,115591,US,,CT,Inperson,MX,
+2021,Data Engineer,,63367,US,,PT,Hybrid,IN,
+2020,Data Engineer,Analysis,54061,CN,MI,CT,Inperson,US,L
+2022,Data Engineer,Engineering,126590,MX,EX,FL,Inperson,UK,S
+2020,Data Analyst,Data Science,72124,MX,EN,CT,Remote,IN,S
+2021,Data Analyst,ML/AI,163054,DE,EX,CT,Hybrid,DE,L
+2021,Data Analyst,,146322,US,,CT,Inperson,US,
+2020,Data Scientist,Engineering,136134,CN,SE,FL,Hybrid,US,M
+2022,Data Scientist,Data Science,65765,IN,EN,CT,Inperson,JP,M
+2021,Data Engineer,Engineering,112606,DE,MI,PT,Hybrid,DE,M
+2021,Machine Learning Engineer,Data Science,126422,MX,EN,PT,Hybrid,JP,S
+2021,Data Engineer,Analysis,139910,IN,EX,CT,Remote,CN,S
+2020,Statistician,,84681,DE,,PT,Remote,US,
+2021,Data Scientist,Analysis,92349,IN,EN,CT,Hybrid,IN,S
+2022,Data Analyst,Engineering,130063,IN,EN,FL,Inperson,CN,L
+2021,Data Scientist,Engineering,93474,US,EN,PT,Hybrid,DE,L
+2021,Data Analyst,,190585,DE,,CT,Inperson,US,
+2022,Statistician,Analysis,52592,JP,MI,FT,Hybrid,MX,L
+2021,Statistician,Data Science,142196,US,MI,FL,Remote,DE,M
+2020,Data Scientist,Analysis,53618,IN,MI,FT,Remote,CN,S
+2020,Data Analyst,,81632,IN,,CT,Inperson,IN,
+2020,Statistician,Data Science,176481,MX,SE,PT,Hybrid,UK,S
+2022,Data Engineer,Data Science,39529,JP,MI,CT,Inperson,JP,L
+2021,Data Engineer,Analysis,152164,MX,EX,PT,Remote,MX,M
+2020,Data Analyst,ML/AI,54154,JP,MI,CT,Hybrid,JP,S
+2022,Data Scientist,Analysis,62882,IN,MI,CT,Remote,CN,L
+2021,Statistician,ML/AI,74917,JP,EX,PT,Remote,US,S
+2022,Data Scientist,Analysis,112488,UK,EN,PT,Hybrid,US,S
+2020,Data Engineer,Engineering,45701,MX,EX,CT,Inperson,IN,L
+2020,Statistician,Data Science,98225,MX,EX,FT,Hybrid,US,M
+2020,Data Scientist,Analysis,149278,US,SE,FL,Remote,US,S
+2022,Machine Learning Engineer,Engineering,32988,DE,EN,FT,Remote,US,L
+2022,Data Analyst,Analysis,65919,MX,EX,FT,Remote,DE,S
+2020,Data Analyst,Data Science,39013,JP,MI,FT,Remote,DE,S
+2022,Machine Learning Engineer,Analysis,164646,JP,EX,FT,Inperson,UK,S
+2020,Data Engineer,ML/AI,37838,UK,SE,PT,Hybrid,DE,M
+2020,Statistician,Data Science,61368,DE,EX,FT,Hybrid,MX,M
+2021,Data Analyst,ML/AI,62228,UK,MI,FL,Inperson,MX,M
+2022,Machine Learning Engineer,Engineering,76097,DE,EN,PT,Inperson,JP,M
+2020,Machine Learning Engineer,Engineering,189711,MX,SE,FT,Remote,MX,L
+2020,Data Engineer,Analysis,175895,MX,EN,PT,Hybrid,CN,M
+2022,Data Engineer,ML/AI,184582,US,SE,FT,Hybrid,UK,S
+2021,Data Scientist,ML/AI,159802,JP,MI,FT,Hybrid,US,L
+2021,Data Analyst,Data Science,68333,US,SE,FL,Inperson,JP,S
+2020,Data Scientist,ML/AI,34435,DE,EN,PT,Remote,UK,M
+2022,Machine Learning Engineer,,68418,JP,,PT,Remote,CN,
+2021,Statistician,Data Science,87955,MX,EX,CT,Hybrid,UK,S
+2022,Statistician,Data Science,89507,UK,EN,FT,Remote,JP,S
+2022,Data Engineer,ML/AI,81033,MX,EX,FT,Inperson,UK,S
+2020,Statistician,Analysis,102972,MX,EN,FL,Inperson,JP,M
+2021,Statistician,Data Science,132012,IN,EX,FL,Hybrid,UK,S
+2020,Statistician,Data Science,77219,UK,MI,PT,Remote,UK,S
+2021,Machine Learning Engineer,ML/AI,195549,IN,EX,FL,Inperson,MX,S
+2021,Statistician,,176595,UK,,PT,Inperson,UK,
+2021,Statistician,Data Science,62326,DE,MI,FT,Inperson,JP,M
+2021,Statistician,ML/AI,142626,US,SE,FT,Inperson,UK,S
+2021,Data Scientist,Data Science,161197,IN,EN,PT,Remote,MX,L
+2022,Machine Learning Engineer,Analysis,96735,DE,EX,FL,Inperson,CN,L
+2020,Data Engineer,Analysis,134396,US,SE,FL,Inperson,CN,S
+2022,Data Scientist,,46375,US,,PT,Remote,DE,
+2021,Data Analyst,Data Science,163783,JP,SE,FT,Hybrid,DE,M
+2020,Machine Learning Engineer,Engineering,193509,MX,MI,PT,Hybrid,DE,L
+2021,Machine Learning Engineer,Engineering,189094,JP,EN,FL,Inperson,DE,M
+2020,Data Analyst,ML/AI,39182,MX,MI,PT,Hybrid,DE,S
+2022,Data Analyst,ML/AI,123177,JP,EN,FT,Remote,CN,L
+2020,Data Analyst,Data Science,125066,IN,SE,CT,Inperson,US,L
+2020,Data Engineer,Data Science,154401,IN,MI,PT,Remote,UK,M
+2020,Statistician,Engineering,118148,MX,EN,CT,Hybrid,CN,S
+2020,Machine Learning Engineer,,133806,US,,PT,Hybrid,CN,
+2020,Statistician,Data Science,173992,IN,MI,FL,Inperson,IN,M
+2021,Statistician,,52144,US,,FL,Hybrid,US,
+2020,Data Analyst,Analysis,150270,DE,MI,CT,Inperson,JP,S
+2020,Data Engineer,ML/AI,163637,UK,MI,PT,Inperson,MX,S
+2022,Data Scientist,Data Science,118909,US,EX,FL,Remote,US,S
+2020,Data Engineer,Data Science,185763,US,SE,CT,Hybrid,IN,M
+2022,Statistician,ML/AI,160661,DE,EX,CT,Hybrid,CN,S
+2021,Data Engineer,,63799,MX,,PT,Inperson,US,
+2020,Data Analyst,Engineering,64510,JP,SE,FL,Inperson,UK,L
+2022,Data Scientist,Analysis,117919,CN,SE,CT,Inperson,DE,S
+2022,Data Analyst,Data Science,143043,MX,EN,FT,Inperson,UK,M
+2021,Data Scientist,Engineering,190047,JP,SE,FT,Remote,US,M
+2020,Statistician,Analysis,83242,JP,MI,FL,Hybrid,CN,M
+2020,Data Scientist,Analysis,76546,MX,EX,FL,Remote,CN,S
+2022,Data Scientist,Analysis,184339,MX,MI,FT,Hybrid,IN,M
+2020,Data Scientist,Engineering,99939,US,MI,CT,Remote,JP,S
+2022,Data Engineer,Engineering,151265,US,EX,PT,Inperson,UK,S
+2020,Data Engineer,Data Science,34897,IN,MI,CT,Remote,IN,L
+2022,Statistician,Data Science,161235,IN,EN,FL,Remote,JP,L
+2020,Data Scientist,Analysis,82540,UK,MI,FL,Inperson,DE,S
+2021,Machine Learning Engineer,Analysis,60030,UK,MI,PT,Inperson,UK,L
+2020,Statistician,Engineering,85313,CN,EX,CT,Hybrid,CN,M
+2020,Data Scientist,Engineering,158070,MX,MI,PT,Hybrid,UK,S
+2021,Data Scientist,,59870,IN,,CT,Remote,CN,
+2020,Data Engineer,Data Science,146565,MX,SE,CT,Remote,CN,M
+2021,Statistician,ML/AI,154703,US,SE,FT,Remote,DE,S
+2020,Data Scientist,Data Science,190554,DE,EN,CT,Inperson,DE,M
+2022,Data Scientist,Engineering,192130,IN,EX,FL,Hybrid,US,S
+2022,Statistician,Analysis,87255,US,EX,FL,Remote,JP,L
+2020,Machine Learning Engineer,ML/AI,122407,MX,EX,FL,Hybrid,IN,M
+2020,Statistician,Data Science,147952,IN,EN,FT,Hybrid,MX,L
+2020,Statistician,Data Science,187451,JP,EN,PT,Inperson,MX,M
+2022,Machine Learning Engineer,Engineering,139396,IN,MI,FL,Inperson,DE,M
+2020,Statistician,ML/AI,53674,MX,EX,FL,Remote,US,M
+2022,Data Scientist,Data Science,167662,MX,EN,PT,Remote,JP,M
+2021,Statistician,,192504,CN,,FT,Remote,JP,
+2022,Machine Learning Engineer,Engineering,70426,MX,SE,CT,Remote,UK,M
+2022,Data Analyst,ML/AI,79584,JP,EX,PT,Remote,US,L
+2021,Statistician,Data Science,199087,US,SE,CT,Hybrid,US,M
+2022,Data Engineer,Data Science,103251,JP,MI,CT,Hybrid,UK,S
+2020,Data Scientist,ML/AI,99353,IN,MI,CT,Inperson,MX,S
+2020,Data Scientist,Engineering,125029,JP,EX,PT,Inperson,IN,M
+2022,Data Engineer,ML/AI,112990,CN,EN,PT,Hybrid,MX,S
+2023,Data Engineer,ML/AI,34600,DE,EN,CT,Inperson,DE,M
+2022,Statistician,Engineering,185762,JP,EN,FT,Inperson,CN,L
+2023,Data Engineer,,138286,MX,,FT,Remote,UK,
+2023,Data Analyst,Analysis,63762,CN,EX,FT,Inperson,DE,M
+2022,Machine Learning Engineer,Engineering,149006,JP,MI,FL,Inperson,CN,M
+2023,Data Engineer,Analysis,198571,UK,EX,CT,Inperson,US,L
+2022,Data Engineer,Data Science,168742,DE,EX,FL,Hybrid,MX,L
+2023,Data Analyst,ML/AI,47341,US,SE,FT,Hybrid,UK,M
+2023,Data Scientist,Analysis,125140,MX,MI,PT,Remote,CN,M
+2021,Data Scientist,Data Science,114074,CN,EN,FT,Inperson,IN,M
+2021,Statistician,Data Science,47015,JP,MI,FL,Hybrid,DE,M
+2022,Data Analyst,ML/AI,140180,DE,SE,FL,Remote,MX,M
+2021,Machine Learning Engineer,ML/AI,154581,US,EX,FT,Inperson,DE,M
+2022,Machine Learning Engineer,Data Science,79849,DE,MI,CT,Remote,DE,L
+2021,Data Analyst,Data Science,144719,CN,SE,PT,Remote,US,S
+2023,Machine Learning Engineer,Analysis,45852,UK,EX,PT,Inperson,MX,M
+2022,Data Scientist,Data Science,85361,CN,EN,FT,Hybrid,CN,M
+2022,Machine Learning Engineer,Data Science,141794,CN,MI,CT,Inperson,DE,L
+2023,Machine Learning Engineer,Analysis,182330,US,EN,CT,Inperson,JP,S
+2022,Data Analyst,Engineering,92355,US,EN,FT,Inperson,MX,L
+2022,Data Analyst,Analysis,154773,JP,SE,PT,Hybrid,DE,L
+2021,Machine Learning Engineer,Analysis,57410,IN,SE,PT,Inperson,US,M
+2022,Data Engineer,ML/AI,170967,CN,EX,PT,Hybrid,UK,M
+2023,Data Analyst,Analysis,63924,US,EN,CT,Remote,DE,L
+2021,Statistician,Data Science,142622,CN,SE,FT,Hybrid,DE,M
+2021,Statistician,Data Science,100831,CN,SE,CT,Remote,UK,M
+2023,Data Scientist,Data Science,173336,US,EN,PT,Remote,CN,M
+2023,Machine Learning Engineer,Engineering,58038,UK,EX,CT,Inperson,CN,S
+2021,Data Engineer,Data Science,146936,UK,EN,PT,Hybrid,JP,S
+2022,Data Scientist,,39136,CN,,FT,Remote,US,
+2021,Machine Learning Engineer,Data Science,43213,UK,EX,PT,Remote,UK,L
+2023,Data Analyst,Analysis,138546,CN,SE,FL,Hybrid,US,S
+2021,Statistician,ML/AI,57431,JP,EN,FL,Hybrid,CN,L
+2023,Data Engineer,Data Science,72290,US,EN,FT,Remote,UK,M
+2021,Statistician,Engineering,126815,CN,SE,CT,Remote,IN,L
+2022,Data Analyst,Engineering,160374,UK,MI,CT,Hybrid,JP,L
+2021,Machine Learning Engineer,,72747,UK,,CT,Hybrid,IN,
+2021,Data Analyst,Data Science,105974,DE,EN,PT,Remote,CN,L
+2023,Data Analyst,Analysis,109763,DE,SE,FL,Inperson,MX,L
+2023,Statistician,Data Science,159132,MX,EX,FT,Hybrid,UK,S
+2023,Data Engineer,Data Science,102994,UK,EX,CT,Remote,CN,M
+2021,Data Analyst,ML/AI,99015,MX,EN,CT,Remote,UK,L
+2022,Statistician,Data Science,175959,MX,SE,FT,Inperson,US,M
+2023,Data Engineer,Analysis,30051,MX,EN,PT,Hybrid,UK,M
+2023,Machine Learning Engineer,Engineering,97695,JP,EN,CT,Remote,CN,M
+2021,Machine Learning Engineer,,58491,IN,,PT,Inperson,US,
+2023,Data Scientist,Analysis,46080,CN,EN,PT,Hybrid,US,M
+2022,Statistician,Engineering,64880,DE,EX,PT,Inperson,UK,L
+2022,Data Engineer,ML/AI,141056,CN,MI,CT,Remote,US,M
+2023,Data Analyst,ML/AI,77361,DE,EX,CT,Inperson,CN,M
+2023,Machine Learning Engineer,Engineering,117685,US,MI,FT,Remote,MX,M
+2021,Data Engineer,Engineering,110875,US,SE,FT,Remote,JP,L
+2022,Statistician,Analysis,124841,UK,EN,PT,Inperson,IN,M
+2022,Data Scientist,Data Science,177665,US,MI,CT,Inperson,UK,M
+2023,Machine Learning Engineer,Data Science,177239,US,SE,PT,Remote,US,M
+2021,Data Engineer,Data Science,118091,IN,SE,FT,Inperson,US,S
+2022,Data Engineer,,63005,MX,,PT,Hybrid,CN,
+2022,Data Engineer,Data Science,95471,JP,EX,FL,Hybrid,US,S
+2021,Statistician,,156718,UK,,PT,Inperson,US,
+2021,Statistician,ML/AI,136379,IN,MI,CT,Inperson,JP,M
+2022,Statistician,,80728,UK,,PT,Hybrid,MX,
+2022,Data Analyst,Analysis,169763,JP,EX,PT,Remote,UK,L
+2021,Data Engineer,Analysis,39756,UK,MI,CT,Remote,UK,L
+2022,Machine Learning Engineer,ML/AI,153670,CN,MI,FL,Hybrid,CN,L
+2023,Statistician,Analysis,66308,CN,EN,CT,Remote,JP,S
+2023,Statistician,Analysis,94079,CN,MI,FT,Inperson,JP,L
+2021,Data Engineer,ML/AI,95524,US,SE,FL,Inperson,JP,S
+2021,Statistician,Analysis,39327,JP,EN,FL,Hybrid,UK,S
+2021,Data Analyst,Data Science,189592,IN,MI,CT,Hybrid,MX,M
+2023,Data Analyst,Engineering,135561,IN,EN,PT,Hybrid,DE,L
+2022,Statistician,Analysis,124436,DE,SE,FT,Hybrid,CN,M
+2023,Data Engineer,Engineering,46533,IN,MI,FT,Remote,CN,L
+2022,Data Engineer,Analysis,127417,MX,EN,FL,Remote,IN,S
+2023,Data Engineer,,123318,CN,,FT,Remote,JP,
+2022,Data Scientist,Data Science,70429,MX,EN,FL,Inperson,JP,S
+2023,Statistician,ML/AI,116348,MX,EN,FL,Inperson,UK,L
+2021,Data Engineer,Engineering,103065,CN,SE,FT,Hybrid,MX,L
+2023,Data Analyst,ML/AI,181725,DE,SE,FL,Hybrid,CN,L
+2022,Machine Learning Engineer,Data Science,123396,US,MI,PT,Remote,UK,L
+2023,Machine Learning Engineer,,43654,IN,,FL,Remote,MX,
+2023,Data Engineer,,163180,JP,,PT,Remote,IN,
+2023,Machine Learning Engineer,ML/AI,99483,DE,EN,PT,Hybrid,US,L
+2021,Machine Learning Engineer,Data Science,37899,IN,SE,PT,Remote,UK,M
+2023,Data Scientist,Analysis,174444,US,SE,FT,Hybrid,MX,L
+2021,Data Analyst,,198754,MX,,PT,Hybrid,MX,
+2021,Data Analyst,Analysis,125909,JP,EX,FT,Inperson,IN,L
+2023,Data Scientist,,134971,JP,,CT,Inperson,MX,
+2023,Data Scientist,Analysis,121724,MX,EX,PT,Hybrid,UK,S
+2023,Machine Learning Engineer,Analysis,197655,US,SE,FL,Remote,UK,S
+2022,Statistician,Data Science,59295,IN,EN,CT,Hybrid,UK,M
+2023,Machine Learning Engineer,Data Science,110565,MX,MI,CT,Hybrid,DE,M
+2021,Data Scientist,Analysis,79574,UK,MI,PT,Hybrid,MX,L
+2023,Data Analyst,Analysis,131067,IN,EX,FT,Hybrid,DE,L
+2022,Machine Learning Engineer,Data Science,60066,MX,MI,CT,Inperson,JP,L
+2023,Statistician,,170017,MX,,PT,Inperson,DE,
+2022,Machine Learning Engineer,ML/AI,59418,DE,MI,CT,Hybrid,IN,S
+2022,Data Engineer,ML/AI,112607,DE,EX,CT,Inperson,UK,M
+2023,Machine Learning Engineer,Data Science,79874,IN,EN,PT,Inperson,DE,M
+2021,Data Scientist,ML/AI,142158,CN,EN,FL,Remote,CN,M
+2022,Data Analyst,Data Science,178202,DE,SE,FL,Inperson,UK,S
+2023,Data Analyst,Data Science,116257,UK,SE,FL,Inperson,US,L
+2023,Data Scientist,Data Science,160538,CN,MI,CT,Hybrid,JP,S
+2021,Data Engineer,Data Science,79635,UK,EX,FT,Inperson,DE,S
+2022,Data Scientist,Engineering,143023,JP,EN,FT,Inperson,CN,M
+2022,Machine Learning Engineer,Analysis,129837,DE,MI,CT,Inperson,MX,S
+2023,Data Scientist,Analysis,47404,MX,MI,CT,Hybrid,CN,M
+2023,Data Scientist,Engineering,102629,CN,SE,PT,Hybrid,UK,S
+2021,Data Engineer,ML/AI,43156,IN,MI,FT,Inperson,US,M
+2021,Machine Learning Engineer,,79999,CN,,CT,Hybrid,JP,
+2022,Statistician,Analysis,174857,MX,SE,FL,Hybrid,JP,L
+2022,Statistician,ML/AI,44694,JP,MI,FT,Remote,US,M
+2023,Data Analyst,Analysis,197186,UK,MI,CT,Inperson,DE,S
+2022,Data Scientist,Analysis,99549,JP,EN,PT,Remote,DE,M
+2021,Data Analyst,Engineering,62799,US,MI,PT,Inperson,UK,S
+2021,Data Engineer,,120288,DE,,FT,Inperson,IN,
+2023,Statistician,Engineering,172228,IN,SE,FL,Remote,UK,L
+2021,Data Scientist,Analysis,171376,UK,EN,FT,Remote,UK,L
+2021,Data Engineer,Analysis,70645,JP,SE,CT,Inperson,MX,S
+2021,Data Engineer,Analysis,107614,IN,SE,FL,Remote,UK,M
+2021,Data Scientist,Data Science,163387,DE,SE,CT,Remote,MX,S
+2023,Data Engineer,Data Science,128369,MX,MI,FL,Hybrid,US,L
+2023,Data Scientist,Data Science,42420,IN,EN,FL,Inperson,JP,S
+2022,Data Scientist,Engineering,48312,DE,EX,CT,Hybrid,JP,S
+2021,Machine Learning Engineer,Analysis,51395,DE,EN,FT,Inperson,IN,M
+2022,Data Analyst,,70301,DE,,PT,Hybrid,DE,
+2023,Data Engineer,Engineering,76972,JP,EN,FL,Inperson,UK,L
+2023,Data Engineer,Engineering,93294,MX,EX,FL,Hybrid,US,M
+2023,Machine Learning Engineer,,110853,DE,,PT,Inperson,US,
+2023,Machine Learning Engineer,ML/AI,150135,IN,SE,FT,Hybrid,UK,M
+2023,Machine Learning Engineer,Analysis,112504,MX,MI,PT,Remote,US,L
+2023,Statistician,Data Science,52854,US,SE,FT,Inperson,US,L
+2023,Statistician,Analysis,151373,IN,SE,FL,Remote,MX,M
+2021,Statistician,Analysis,100780,JP,EX,FL,Hybrid,UK,S
+2022,Data Scientist,Engineering,192001,DE,SE,CT,Inperson,IN,L
+2023,Data Engineer,,136458,MX,,FT,Hybrid,US,
+2021,Data Analyst,Engineering,87103,US,EX,PT,Hybrid,JP,M
+2021,Data Scientist,,93620,JP,,FT,Remote,CN,
+2022,Data Engineer,Data Science,119590,UK,EN,FT,Inperson,JP,M
+2023,Data Engineer,Data Science,114124,UK,EX,FT,Hybrid,MX,S
+2022,Machine Learning Engineer,Analysis,74590,UK,MI,FT,Remote,MX,S
+2023,Machine Learning Engineer,Engineering,130196,US,SE,PT,Remote,CN,L
+2021,Data Scientist,ML/AI,102554,MX,EN,CT,Remote,CN,M
+2021,Machine Learning Engineer,Analysis,171693,IN,EX,FL,Remote,JP,L
+2021,Data Engineer,Data Science,147781,US,MI,PT,Hybrid,UK,L
+2021,Machine Learning Engineer,ML/AI,30973,MX,SE,PT,Hybrid,CN,L
+2022,Statistician,,88786,US,,FL,Hybrid,JP,
+2023,Machine Learning Engineer,Engineering,134919,MX,EX,CT,Inperson,DE,M
+2023,Data Engineer,ML/AI,67097,US,EX,PT,Inperson,US,M
+2022,Data Scientist,Data Science,151403,UK,SE,FL,Remote,MX,L
+2023,Data Analyst,Engineering,64245,CN,EN,CT,Hybrid,IN,S
+2021,Machine Learning Engineer,ML/AI,84841,MX,SE,CT,Remote,CN,L
+2023,Data Engineer,Engineering,55346,MX,SE,FT,Hybrid,JP,S
+2021,Data Analyst,ML/AI,135633,MX,EN,PT,Inperson,UK,M
+2022,Data Analyst,Analysis,101980,IN,EX,CT,Remote,MX,M
+2023,Statistician,Analysis,120417,CN,MI,PT,Hybrid,CN,L
+2022,Data Analyst,Data Science,106942,CN,MI,FL,Hybrid,IN,S
+2023,Data Engineer,Analysis,135147,US,EN,PT,Hybrid,MX,M
+2021,Data Engineer,Analysis,120975,IN,EN,CT,Remote,UK,M
+2022,Machine Learning Engineer,Analysis,35972,CN,EX,FL,Inperson,IN,L
+2023,Machine Learning Engineer,ML/AI,78063,DE,MI,FL,Hybrid,IN,L
+2021,Machine Learning Engineer,ML/AI,160017,US,MI,FT,Remote,US,L
+2022,Data Analyst,Engineering,87055,US,EX,FL,Hybrid,CN,S
+2022,Data Analyst,ML/AI,172003,US,EN,CT,Remote,CN,S
+2023,Statistician,Analysis,168774,DE,EN,FT,Inperson,CN,M
+2023,Machine Learning Engineer,ML/AI,114834,DE,EX,CT,Hybrid,IN,L
+2023,Data Scientist,Data Science,182612,UK,EN,CT,Remote,DE,M
+2021,Statistician,,87450,JP,,FT,Hybrid,DE,
+2023,Data Scientist,,95252,IN,,FT,Remote,MX,
+2022,Data Analyst,ML/AI,76904,JP,SE,PT,Inperson,DE,M
+2022,Statistician,Analysis,82320,US,MI,CT,Inperson,MX,L
+2023,Statistician,Engineering,61000,CN,MI,PT,Remote,UK,M
+2023,Data Engineer,Data Science,125341,US,EN,FL,Inperson,US,L
+2022,Data Analyst,Data Science,32599,CN,EX,FL,Hybrid,UK,M
+2021,Data Analyst,Engineering,117636,UK,EN,PT,Inperson,CN,M
+2023,Statistician,Analysis,30018,MX,EX,FT,Hybrid,CN,S
+2023,Data Analyst,Analysis,161930,JP,MI,FL,Inperson,JP,S
+2022,Statistician,ML/AI,187064,MX,MI,FT,Inperson,CN,M
+2023,Data Engineer,ML/AI,193652,MX,MI,PT,Hybrid,DE,M
+2021,Statistician,Engineering,100916,US,EX,FT,Inperson,US,L
+2022,Data Analyst,ML/AI,196872,JP,EX,CT,Hybrid,DE,S
+2023,Data Analyst,ML/AI,149193,UK,MI,FL,Hybrid,US,S
+2022,Statistician,ML/AI,88770,JP,EN,FT,Inperson,UK,M
+2023,Statistician,Data Science,67487,CN,EX,FT,Inperson,CN,L
+2023,Statistician,ML/AI,174015,IN,SE,CT,Hybrid,UK,S
+2023,Machine Learning Engineer,Engineering,132342,MX,MI,FT,Remote,DE,M
+2021,Data Analyst,Analysis,91457,UK,EX,PT,Inperson,IN,M
+2021,Data Analyst,ML/AI,48836,JP,MI,PT,Inperson,US,M
+2022,Machine Learning Engineer,Analysis,131150,US,SE,PT,Remote,CN,M
+2023,Statistician,ML/AI,41394,DE,EN,FL,Remote,JP,M
+2023,Data Engineer,Engineering,102158,DE,SE,FT,Inperson,MX,S
+2021,Statistician,,154660,UK,,FL,Inperson,IN,
+2023,Statistician,Engineering,140599,DE,EN,FL,Inperson,UK,L
+2021,Machine Learning Engineer,Data Science,55280,IN,EX,FT,Remote,US,M
+2023,Data Analyst,ML/AI,154221,UK,EN,FT,Inperson,IN,L
+2022,Statistician,ML/AI,107318,US,EN,PT,Remote,MX,M
+2023,Data Analyst,Data Science,162231,US,EN,FL,Remote,JP,M
+2023,Data Scientist,Engineering,100162,UK,MI,FL,Hybrid,IN,M
+2021,Data Analyst,,184512,DE,,FT,Remote,JP,
+2023,Data Engineer,Data Science,82712,DE,EX,FL,Hybrid,UK,M
+2023,Data Engineer,ML/AI,139578,US,EN,CT,Remote,US,L
+2021,Statistician,Data Science,167661,IN,MI,FT,Remote,UK,S
+2022,Data Analyst,ML/AI,78241,CN,EN,PT,Hybrid,US,M
+2022,Statistician,Data Science,53233,DE,EX,CT,Hybrid,IN,L
+2021,Machine Learning Engineer,ML/AI,196083,IN,EX,CT,Hybrid,UK,S
+2021,Data Engineer,Data Science,38177,MX,EX,PT,Hybrid,US,M
+2021,Statistician,Analysis,195600,DE,EX,CT,Hybrid,CN,S
+2021,Machine Learning Engineer,ML/AI,144506,CN,MI,CT,Hybrid,JP,M
+2021,Statistician,Engineering,91351,UK,SE,CT,Hybrid,US,L
+2022,Data Analyst,,121908,JP,,FL,Remote,CN,
+2022,Data Analyst,Engineering,81827,US,MI,CT,Remote,UK,M
+2021,Data Analyst,Data Science,184580,UK,EN,CT,Hybrid,UK,L
+2023,Data Analyst,Engineering,110501,DE,EX,FT,Inperson,IN,L
+2021,Data Scientist,Engineering,98772,CN,EX,PT,Hybrid,JP,L
+2023,Machine Learning Engineer,Data Science,45611,US,EX,FL,Inperson,US,M
+2021,Machine Learning Engineer,,183354,JP,,FL,Remote,UK,
+2021,Data Analyst,,71003,JP,,PT,Remote,US,
+2022,Data Scientist,Engineering,172412,CN,EX,FL,Inperson,DE,S
+2023,Data Analyst,Engineering,126629,CN,EX,FL,Remote,JP,L
+2023,Data Scientist,ML/AI,116643,DE,EN,FL,Hybrid,JP,L
+2022,Data Analyst,ML/AI,104684,US,SE,FT,Inperson,CN,M
+2022,Data Engineer,Analysis,138610,MX,MI,FT,Inperson,DE,L
+2022,Data Engineer,ML/AI,150332,MX,SE,FL,Remote,JP,S
+2022,Statistician,ML/AI,113035,DE,EX,PT,Inperson,DE,M
+2023,Data Analyst,Data Science,48165,JP,SE,PT,Inperson,US,L
+2023,Machine Learning Engineer,Analysis,139322,UK,SE,FT,Inperson,MX,S
+2021,Statistician,Analysis,179332,UK,MI,FT,Remote,DE,M
+2021,Data Engineer,ML/AI,84515,IN,MI,CT,Inperson,IN,S
+2022,Data Analyst,Data Science,139446,JP,EN,FT,Inperson,CN,M
+2022,Statistician,Data Science,60480,MX,EX,FL,Hybrid,DE,M
+2022,Data Analyst,Analysis,89789,MX,EN,FT,Hybrid,US,M
+2021,Data Engineer,Data Science,62191,JP,MI,CT,Inperson,JP,L
+2021,Statistician,Engineering,89488,DE,EN,CT,Remote,IN,M
+2021,Data Engineer,,197116,IN,,PT,Inperson,DE,
+2021,Data Scientist,Engineering,117457,CN,SE,PT,Remote,CN,L
+2021,Data Engineer,Analysis,132476,IN,MI,FL,Hybrid,CN,L
+2021,Data Analyst,Analysis,173908,US,SE,FT,Hybrid,US,L
+2021,Machine Learning Engineer,Data Science,104525,DE,EX,CT,Inperson,IN,M
+2022,Data Engineer,Data Science,82648,CN,MI,CT,Remote,IN,L
+2022,Machine Learning Engineer,Analysis,43740,CN,EX,PT,Remote,IN,S
+2022,Data Scientist,Analysis,125716,MX,MI,PT,Remote,DE,S
+2022,Statistician,Engineering,174174,UK,MI,FT,Inperson,US,M
+2021,Statistician,,159677,US,,CT,Remote,US,
+2023,Machine Learning Engineer,Data Science,143917,IN,MI,PT,Hybrid,US,S
+2021,Statistician,Engineering,191327,UK,MI,FT,Remote,MX,S
+2023,Data Engineer,,131630,JP,,FT,Remote,UK,
+2022,Machine Learning Engineer,Data Science,55221,DE,SE,FT,Inperson,JP,L
+2021,Data Analyst,ML/AI,93265,IN,EX,PT,Inperson,US,M
+2022,Data Engineer,Data Science,30719,JP,MI,PT,Inperson,UK,S
+2021,Data Engineer,Engineering,184212,CN,EX,PT,Inperson,UK,M
+2022,Data Engineer,Analysis,162141,MX,EN,FL,Inperson,IN,S
+2023,Data Analyst,Analysis,84714,IN,MI,FL,Remote,JP,L
+2023,Data Scientist,Engineering,103285,UK,EX,FL,Remote,IN,S
+2023,Statistician,Analysis,42935,US,SE,PT,Inperson,JP,S
+2021,Machine Learning Engineer,Data Science,149362,UK,EN,PT,Inperson,MX,S
+2023,Data Scientist,Analysis,74035,DE,EN,FL,Remote,IN,L
+2021,Machine Learning Engineer,Engineering,156687,MX,EX,CT,Inperson,CN,L
+2023,Statistician,Analysis,126256,DE,MI,CT,Hybrid,DE,S
+2020,Data Analyst,Data Science,189009,IN,MI,CT,Remote,JP,S
+2021,Data Engineer,Data Science,48540,UK,SE,CT,Hybrid,CN,L
+2021,Data Engineer,Engineering,103480,US,SE,FL,Remote,UK,L
+2020,Data Analyst,Engineering,78702,CN,MI,FT,Remote,UK,L
+2021,Data Scientist,Engineering,108283,DE,EN,FT,Remote,JP,S
+2020,Data Scientist,,197979,US,,CT,Remote,IN,
+2021,Machine Learning Engineer,ML/AI,176293,JP,SE,PT,Remote,MX,M
+2022,Data Analyst,Data Science,84781,IN,EN,CT,Remote,DE,L
+2022,Data Scientist,ML/AI,37087,US,MI,CT,Remote,DE,M
+2022,Data Analyst,ML/AI,52789,IN,EX,FT,Inperson,US,S
+2022,Statistician,Analysis,194472,JP,SE,PT,Inperson,JP,M
+2022,Data Engineer,ML/AI,163271,US,EN,FT,Inperson,DE,M
+2020,Data Engineer,Analysis,117273,MX,SE,PT,Hybrid,IN,M
+2022,Data Engineer,Engineering,145310,US,EN,FL,Remote,IN,L
+2022,Data Analyst,Analysis,177816,CN,SE,FT,Inperson,UK,S
+2022,Data Analyst,Analysis,128231,JP,MI,FL,Inperson,DE,L
+2022,Machine Learning Engineer,Engineering,43894,MX,EN,FL,Inperson,DE,M
+2021,Data Engineer,Engineering,190232,MX,EX,CT,Remote,IN,L
+2020,Machine Learning Engineer,Data Science,83095,UK,EX,PT,Remote,UK,S
+2022,Data Engineer,Data Science,59272,US,SE,FT,Hybrid,DE,S
+2022,Machine Learning Engineer,Data Science,84021,CN,EX,CT,Hybrid,MX,S
+2022,Machine Learning Engineer,Data Science,63645,US,SE,FT,Remote,MX,S
+2020,Statistician,Analysis,142079,CN,EN,FL,Hybrid,IN,M
+2021,Machine Learning Engineer,,51179,MX,,FT,Inperson,UK,
+2020,Data Analyst,Data Science,40691,DE,EX,FT,Hybrid,UK,M
+2021,Machine Learning Engineer,ML/AI,159436,MX,EX,CT,Inperson,IN,M
+2022,Data Engineer,Data Science,75311,UK,MI,PT,Hybrid,UK,M
+2022,Machine Learning Engineer,ML/AI,125381,US,EN,FT,Inperson,CN,L
+2020,Data Scientist,Engineering,54967,JP,EX,FL,Hybrid,CN,S
+2020,Data Engineer,Analysis,58478,IN,EX,FL,Hybrid,UK,M
+2021,Data Scientist,Analysis,70332,JP,EX,CT,Remote,US,S
+2021,Data Engineer,ML/AI,168138,UK,SE,FL,Remote,UK,S
+2020,Data Analyst,Data Science,69313,DE,MI,FT,Inperson,MX,M
+2021,Data Analyst,Analysis,97857,DE,EN,PT,Remote,DE,M
+2020,Data Analyst,ML/AI,75900,DE,EX,FT,Inperson,UK,S
+2021,Data Scientist,,156861,CN,,CT,Remote,DE,
+2020,Statistician,Engineering,71098,JP,EX,FL,Remote,IN,S
+2020,Data Engineer,Analysis,38294,IN,SE,FT,Inperson,UK,L
+2020,Data Analyst,Data Science,199173,MX,EN,FT,Hybrid,IN,L
+2021,Data Engineer,,186131,MX,,FL,Inperson,JP,
+2021,Data Scientist,Analysis,126784,IN,EX,PT,Inperson,MX,L
+2021,Statistician,Engineering,70626,MX,SE,PT,Inperson,CN,S
+2020,Data Scientist,Data Science,50703,CN,SE,PT,Remote,UK,S
+2021,Data Engineer,ML/AI,133693,US,MI,FL,Remote,IN,M
+2021,Statistician,Analysis,164277,CN,MI,FT,Remote,JP,S
+2020,Statistician,ML/AI,196001,IN,EN,CT,Inperson,DE,M
+2022,Data Scientist,Data Science,194483,IN,MI,FT,Hybrid,DE,M
+2020,Data Analyst,Data Science,41628,US,EN,FL,Hybrid,CN,S
+2021,Data Engineer,Engineering,133655,JP,MI,FL,Inperson,CN,L
+2020,Machine Learning Engineer,Data Science,36518,JP,EX,FT,Inperson,MX,S
+2022,Machine Learning Engineer,Analysis,199563,UK,MI,FL,Hybrid,MX,S
+2020,Data Scientist,ML/AI,169018,JP,EX,FT,Remote,DE,L
+2021,Data Engineer,Data Science,30610,DE,EN,FT,Inperson,DE,M
+2022,Data Engineer,Data Science,64311,DE,MI,PT,Hybrid,DE,L
+2021,Data Scientist,Analysis,156419,UK,MI,FL,Hybrid,US,S
+2022,Data Engineer,ML/AI,71876,IN,MI,FL,Hybrid,MX,S
+2022,Data Analyst,ML/AI,80333,UK,EX,PT,Remote,CN,L
+2020,Data Scientist,,114192,US,,PT,Hybrid,IN,
+2020,Data Analyst,Engineering,71811,UK,MI,PT,Hybrid,JP,L
+2021,Data Engineer,ML/AI,100072,UK,EN,CT,Hybrid,JP,M
+2020,Data Scientist,Analysis,145407,CN,EX,FL,Inperson,UK,L
+2020,Data Engineer,,72974,DE,,FT,Inperson,IN,
+2022,Data Scientist,Engineering,180928,US,EN,FT,Inperson,CN,L
+2020,Data Engineer,Data Science,111983,CN,EN,FT,Hybrid,US,S
+2022,Data Analyst,Analysis,75823,US,EN,FL,Hybrid,US,M
+2022,Data Analyst,Data Science,128863,UK,EX,CT,Remote,IN,M
+2022,Data Engineer,Analysis,130037,CN,MI,FL,Hybrid,DE,L
+2021,Data Scientist,ML/AI,97078,CN,MI,FL,Remote,DE,S
+2021,Machine Learning Engineer,Engineering,137767,US,SE,FL,Hybrid,IN,M
+2021,Data Analyst,Data Science,97951,US,MI,FL,Remote,CN,L
+2022,Data Analyst,Data Science,139287,JP,SE,FL,Inperson,JP,M
+2021,Machine Learning Engineer,ML/AI,173977,MX,SE,CT,Hybrid,DE,L
+2021,Data Engineer,,51601,US,,PT,Remote,UK,
+2020,Data Scientist,Data Science,133691,CN,SE,FT,Inperson,CN,L
+2021,Data Engineer,Analysis,78435,IN,EN,FL,Inperson,CN,S
+2021,Statistician,ML/AI,185116,US,EN,FL,Hybrid,US,M
+2022,Data Analyst,Engineering,41246,DE,EN,FL,Remote,MX,S
+2022,Statistician,,32458,JP,,FT,Remote,DE,
+2022,Data Analyst,Analysis,36028,DE,SE,CT,Remote,JP,M
+2022,Data Analyst,Data Science,149247,MX,SE,FT,Inperson,CN,S
+2022,Statistician,Analysis,81901,DE,EN,CT,Remote,DE,S
+2022,Statistician,Analysis,167378,IN,EX,PT,Inperson,DE,L
+2021,Data Engineer,Analysis,136555,JP,MI,FL,Remote,US,S
+2022,Statistician,ML/AI,57678,MX,EN,CT,Inperson,UK,L
+2022,Data Engineer,Engineering,120444,UK,EX,FT,Hybrid,CN,S
+2020,Data Engineer,Data Science,42363,CN,MI,CT,Inperson,MX,M
+2021,Data Engineer,Engineering,175138,CN,EX,CT,Remote,UK,S
+2021,Data Analyst,Analysis,93804,US,MI,PT,Inperson,JP,S
+2021,Data Analyst,Analysis,144433,CN,SE,FL,Remote,MX,S
+2022,Statistician,Engineering,78544,IN,SE,FL,Hybrid,IN,L
+2022,Data Analyst,Engineering,128247,CN,EX,FT,Inperson,IN,M
+2022,Statistician,Data Science,30189,IN,EX,FT,Hybrid,MX,M
+2020,Data Analyst,Analysis,41752,UK,MI,PT,Inperson,IN,S
+2022,Data Scientist,Engineering,37482,IN,EX,CT,Inperson,JP,S
+2020,Data Scientist,ML/AI,46679,UK,EX,CT,Hybrid,CN,L
+2021,Statistician,,153056,UK,,FT,Hybrid,DE,
+2022,Data Analyst,Analysis,30799,UK,MI,FL,Inperson,UK,S
+2020,Data Analyst,Data Science,151691,IN,SE,CT,Inperson,UK,S
+2020,Data Engineer,ML/AI,171006,MX,EN,PT,Inperson,DE,M
+2022,Machine Learning Engineer,Data Science,87558,UK,EX,FT,Hybrid,CN,S
+2021,Statistician,ML/AI,89223,MX,MI,CT,Remote,MX,S
+2021,Machine Learning Engineer,Data Science,71556,IN,SE,FL,Hybrid,UK,M
+2021,Machine Learning Engineer,ML/AI,170981,JP,EN,FL,Inperson,CN,L
+2020,Statistician,ML/AI,121467,UK,EX,PT,Inperson,MX,S
+2020,Data Analyst,ML/AI,140719,IN,SE,PT,Hybrid,MX,S
+2020,Statistician,Engineering,121404,IN,EN,FT,Inperson,MX,M
+2020,Machine Learning Engineer,Analysis,73558,MX,EX,FT,Inperson,UK,M
+2021,Data Analyst,ML/AI,189085,IN,SE,FL,Inperson,IN,L
+2022,Data Scientist,Engineering,133018,US,EX,FL,Inperson,IN,L
+2020,Statistician,Engineering,183947,MX,EN,CT,Inperson,US,S
+2020,Statistician,,41408,MX,,CT,Remote,US,
+2021,Data Analyst,Analysis,65607,US,SE,CT,Hybrid,UK,L
+2022,Data Scientist,Analysis,91684,UK,EN,PT,Hybrid,IN,L
+2022,Data Scientist,Data Science,197353,CN,EX,PT,Hybrid,CN,S
+2021,Data Analyst,Analysis,57326,JP,EN,CT,Remote,US,L
+2021,Data Engineer,,43601,CN,,FL,Remote,US,
+2022,Statistician,Engineering,154594,UK,MI,FT,Hybrid,IN,L
+2020,Statistician,Engineering,31135,DE,SE,PT,Hybrid,CN,M
+2022,Machine Learning Engineer,ML/AI,183813,DE,EN,PT,Hybrid,US,L
+2021,Data Analyst,Data Science,41913,JP,MI,CT,Inperson,DE,L
+2020,Machine Learning Engineer,Engineering,40101,MX,MI,FT,Remote,MX,M
+2020,Machine Learning Engineer,Engineering,179703,JP,MI,PT,Remote,CN,M
+2021,Data Scientist,Data Science,132820,JP,EX,FT,Inperson,DE,S
+2021,Statistician,,197942,US,,PT,Remote,IN,
+2021,Machine Learning Engineer,Analysis,188287,US,MI,FT,Hybrid,IN,M
+2022,Data Scientist,Engineering,92110,DE,MI,FT,Remote,US,S
+2022,Data Analyst,Data Science,49215,JP,MI,PT,Inperson,UK,L
+2020,Machine Learning Engineer,Analysis,175096,IN,SE,FT,Hybrid,JP,S
+2021,Statistician,Analysis,106949,CN,SE,FL,Remote,DE,L
+2020,Machine Learning Engineer,Engineering,111855,DE,MI,PT,Hybrid,DE,L
+2020,Data Analyst,ML/AI,136279,JP,EN,PT,Remote,CN,L
+2020,Machine Learning Engineer,Analysis,171583,IN,EX,FL,Hybrid,CN,M
+2020,Statistician,Data Science,151898,JP,EN,FT,Inperson,IN,S
+2021,Data Scientist,ML/AI,180995,MX,EN,FL,Inperson,MX,S
+2020,Statistician,ML/AI,171630,UK,MI,PT,Remote,UK,M
+2021,Data Scientist,Analysis,30526,IN,EN,FL,Remote,IN,M
+2021,Data Engineer,Engineering,31753,MX,SE,FT,Hybrid,US,S
+2022,Statistician,ML/AI,187320,CN,SE,FL,Inperson,UK,M
+2021,Statistician,Engineering,44656,UK,EX,PT,Hybrid,US,M
+2022,Data Analyst,Analysis,53266,MX,SE,FT,Inperson,DE,L
+2021,Machine Learning Engineer,,94555,US,,PT,Hybrid,IN,
+2021,Data Scientist,ML/AI,92995,DE,MI,PT,Hybrid,CN,L
+2021,Data Scientist,Data Science,108277,JP,SE,CT,Hybrid,IN,M
+2022,Data Analyst,Engineering,132345,DE,EN,PT,Remote,JP,M
+2022,Data Analyst,Engineering,126111,CN,EN,PT,Inperson,UK,L
+2020,Machine Learning Engineer,,95402,JP,,FT,Remote,MX,
+2022,Machine Learning Engineer,Analysis,153747,UK,EX,FT,Remote,DE,S
+2022,Statistician,,44418,IN,,FT,Hybrid,JP,
+2022,Data Engineer,ML/AI,67185,IN,EX,FL,Inperson,JP,L
+2022,Machine Learning Engineer,ML/AI,71745,JP,SE,FL,Remote,IN,S
+2020,Data Analyst,Analysis,110123,UK,EX,FT,Hybrid,UK,S
+2022,Machine Learning Engineer,Analysis,117804,JP,SE,FL,Inperson,IN,S
+2021,Data Scientist,Data Science,198425,JP,EN,CT,Inperson,UK,S
+2021,Data Engineer,Engineering,141055,MX,EX,FL,Remote,JP,M
+2022,Statistician,Engineering,149097,JP,EX,CT,Hybrid,US,S
+2022,Data Scientist,ML/AI,78302,IN,EX,FT,Remote,DE,S
+2021,Data Scientist,Analysis,152561,CN,EN,FT,Inperson,JP,M
+2021,Data Engineer,Data Science,183507,JP,SE,FL,Remote,IN,S
+2020,Statistician,ML/AI,87728,IN,EN,FT,Hybrid,MX,S
+2021,Data Analyst,Data Science,128598,US,EN,FT,Inperson,MX,S
+2021,Statistician,Analysis,31238,UK,MI,PT,Hybrid,DE,M
+2022,Machine Learning Engineer,Analysis,111610,US,EX,FT,Hybrid,JP,L
+2021,Data Scientist,Analysis,174121,JP,SE,PT,Inperson,UK,S
+2020,Machine Learning Engineer,Engineering,87193,IN,SE,FT,Hybrid,MX,S
+2021,Data Analyst,Analysis,196656,UK,MI,CT,Hybrid,IN,S
+2022,Machine Learning Engineer,ML/AI,96634,DE,MI,CT,Hybrid,MX,S
+2022,Statistician,,44679,UK,,FT,Inperson,JP,
+2021,Machine Learning Engineer,Data Science,64505,UK,MI,CT,Hybrid,UK,L
+2022,Data Analyst,ML/AI,81341,JP,SE,CT,Remote,UK,S
+2020,Data Analyst,ML/AI,80374,MX,SE,CT,Remote,UK,S
+2020,Data Analyst,Data Science,76998,US,SE,FL,Hybrid,MX,M
+2021,Statistician,Engineering,157203,US,EN,CT,Remote,DE,L
+2021,Data Analyst,ML/AI,63178,DE,EX,PT,Remote,IN,L
+2021,Data Scientist,ML/AI,188647,JP,EX,FL,Inperson,UK,L
+2022,Data Analyst,ML/AI,180401,UK,EN,PT,Hybrid,JP,S
+2020,Machine Learning Engineer,,137373,MX,,PT,Inperson,UK,
+2020,Machine Learning Engineer,Engineering,134139,CN,SE,PT,Hybrid,IN,S
+2022,Machine Learning Engineer,Engineering,130290,US,EN,FL,Remote,CN,M
+2020,Statistician,ML/AI,88951,US,EN,FT,Inperson,CN,M
+2021,Machine Learning Engineer,Analysis,117629,IN,MI,CT,Inperson,DE,M
+2021,Statistician,Data Science,196243,UK,EN,CT,Remote,UK,S
+2021,Statistician,Analysis,169334,JP,EX,FT,Remote,JP,S
+2020,Data Analyst,Engineering,181857,US,EN,FT,Hybrid,IN,S
+2021,Data Scientist,ML/AI,98831,MX,SE,PT,Hybrid,MX,L
+2022,Data Analyst,ML/AI,111223,JP,SE,FL,Remote,UK,M
+2022,Data Analyst,Analysis,75643,UK,SE,PT,Remote,MX,M
+2020,Statistician,Analysis,33582,UK,EX,CT,Inperson,DE,L
+2022,Statistician,Data Science,142781,US,EX,FT,Inperson,US,L
+2022,Machine Learning Engineer,ML/AI,191352,DE,MI,CT,Hybrid,CN,L
+2020,Machine Learning Engineer,Analysis,134004,JP,EN,FT,Inperson,JP,S
+2021,Data Analyst,Data Science,70000,JP,MI,FL,Remote,CN,L
+2021,Data Engineer,Engineering,132592,IN,EN,PT,Remote,UK,S
+2021,Data Engineer,Analysis,31085,MX,EN,CT,Remote,UK,S
+2020,Machine Learning Engineer,Engineering,176672,UK,EX,FL,Remote,US,M
+2022,Data Engineer,Data Science,127994,UK,SE,CT,Hybrid,IN,L
+2021,Machine Learning Engineer,Engineering,147309,US,EN,FT,Remote,MX,S
+2021,Statistician,ML/AI,137114,US,EX,CT,Remote,MX,S
+2020,Data Analyst,ML/AI,100410,US,MI,FL,Remote,MX,L
+2021,Data Scientist,,56825,IN,,FL,Remote,US,
+2020,Data Analyst,ML/AI,171985,MX,MI,PT,Hybrid,MX,S
+2022,Machine Learning Engineer,Data Science,114269,DE,MI,CT,Hybrid,IN,S
+2020,Machine Learning Engineer,,44332,US,,FT,Inperson,UK,
+2020,Data Analyst,Engineering,84895,US,SE,CT,Hybrid,US,S
+2020,Machine Learning Engineer,,165504,CN,,PT,Hybrid,CN,
+2020,Data Engineer,Engineering,187642,MX,MI,FT,Hybrid,MX,L
+2022,Data Engineer,Analysis,167175,US,EN,FT,Inperson,CN,M
+2022,Machine Learning Engineer,Engineering,152046,IN,SE,PT,Remote,MX,M
+2021,Machine Learning Engineer,Data Science,176972,JP,EX,FT,Inperson,UK,M
+2022,Data Engineer,ML/AI,97567,DE,EX,FL,Remote,US,S
+2022,Machine Learning Engineer,ML/AI,92713,JP,EX,FL,Hybrid,UK,S
+2021,Machine Learning Engineer,Analysis,88639,CN,EN,FT,Remote,CN,M
+2022,Data Analyst,Analysis,170060,UK,EN,CT,Inperson,CN,M
+2020,Data Scientist,Data Science,133603,UK,SE,FT,Remote,UK,L
+2020,Data Engineer,Engineering,108488,US,EN,CT,Remote,MX,M
+2021,Data Analyst,Analysis,122905,CN,EX,PT,Hybrid,UK,S
+2021,Data Scientist,ML/AI,32977,JP,MI,FL,Remote,DE,M
+2021,Machine Learning Engineer,Analysis,145650,IN,MI,FL,Remote,US,M
+2020,Machine Learning Engineer,Analysis,84641,DE,MI,PT,Hybrid,DE,L
+2022,Data Analyst,Engineering,162340,MX,EX,PT,Inperson,UK,M
+2020,Machine Learning Engineer,,144465,JP,,FL,Hybrid,JP,
+2021,Statistician,,84431,CN,,PT,Remote,CN,
+2022,Data Analyst,ML/AI,46756,CN,EN,FT,Hybrid,IN,M
+2022,Data Scientist,Engineering,181836,MX,EN,FT,Hybrid,US,M
+2020,Data Analyst,ML/AI,176104,JP,EX,CT,Remote,US,S
+2021,Data Engineer,Data Science,172957,DE,EN,CT,Inperson,CN,S
+2020,Data Analyst,Data Science,39796,JP,EN,CT,Hybrid,IN,L
+2022,Machine Learning Engineer,Analysis,134583,JP,EX,FT,Inperson,DE,L
+2020,Machine Learning Engineer,Analysis,193935,DE,SE,FL,Hybrid,IN,S
+2020,Statistician,Analysis,111014,IN,MI,CT,Remote,JP,L
+2021,Statistician,ML/AI,193189,MX,MI,FT,Remote,UK,S
+2021,Statistician,,181825,CN,,FL,Hybrid,IN,
+2022,Data Scientist,Engineering,50325,DE,SE,PT,Hybrid,MX,S
+2020,Statistician,Analysis,168093,US,EX,FT,Hybrid,IN,S
+2020,Data Scientist,ML/AI,83096,US,EN,PT,Remote,UK,L
+2020,Statistician,Analysis,174143,US,EX,CT,Hybrid,CN,L
+2022,Data Scientist,Data Science,94649,US,MI,FL,Remote,US,L
+2022,Data Analyst,,38041,MX,,FT,Hybrid,CN,
+2021,Data Analyst,Data Science,70058,UK,MI,CT,Remote,MX,M
+2021,Machine Learning Engineer,ML/AI,78263,IN,EX,CT,Hybrid,JP,L
+2021,Data Scientist,Analysis,134820,UK,EX,FL,Inperson,CN,L
+2020,Data Engineer,Data Science,137645,JP,SE,PT,Inperson,IN,L
+2020,Machine Learning Engineer,ML/AI,58223,JP,EX,CT,Remote,IN,L
+2021,Data Analyst,,63575,DE,,FL,Hybrid,US,
+2020,Data Scientist,Engineering,51661,US,SE,FL,Inperson,JP,M
+2021,Statistician,Data Science,66432,DE,EN,FT,Hybrid,UK,L
+2022,Data Engineer,Analysis,192219,JP,EX,CT,Hybrid,UK,M
+2021,Data Analyst,Analysis,59114,US,EX,PT,Hybrid,DE,M
+2022,Machine Learning Engineer,Analysis,36030,MX,SE,PT,Inperson,JP,S
+2020,Data Scientist,Analysis,120051,CN,MI,CT,Remote,JP,L
+2021,Data Engineer,,77743,IN,,PT,Inperson,IN,
+2020,Data Scientist,Analysis,155756,JP,MI,FL,Remote,DE,S
+2022,Statistician,ML/AI,95615,CN,MI,FL,Inperson,UK,L
+2022,Machine Learning Engineer,Data Science,77577,DE,EX,CT,Hybrid,MX,L
+2022,Data Scientist,Analysis,140436,CN,EN,PT,Hybrid,JP,M
+2020,Data Analyst,Data Science,32966,DE,SE,FL,Hybrid,JP,S
+2020,Machine Learning Engineer,ML/AI,159356,JP,SE,CT,Inperson,US,S
+2020,Data Analyst,ML/AI,143838,UK,EX,FL,Inperson,UK,S
+2020,Data Scientist,Data Science,33728,MX,EX,CT,Remote,US,S
+2022,Machine Learning Engineer,Analysis,198376,MX,SE,FT,Inperson,DE,L
+2022,Data Analyst,Analysis,162019,IN,SE,FT,Remote,JP,M
+2021,Statistician,ML/AI,111380,MX,EN,CT,Inperson,DE,M
+2021,Statistician,Analysis,96130,CN,EX,FT,Hybrid,CN,S
+2020,Data Scientist,ML/AI,51414,MX,EN,FT,Inperson,US,S
+2022,Machine Learning Engineer,,123005,CN,,PT,Hybrid,UK,
+2022,Data Engineer,ML/AI,180511,JP,EX,FT,Inperson,JP,M
+2022,Machine Learning Engineer,Engineering,121742,MX,EN,PT,Remote,CN,L
+2021,Statistician,Analysis,66973,JP,MI,FT,Inperson,CN,L
+2021,Data Analyst,Analysis,117091,MX,MI,FT,Hybrid,UK,S
+2022,Data Engineer,Analysis,167161,DE,MI,FL,Inperson,DE,L
+2022,Data Scientist,Data Science,92235,US,EX,CT,Remote,CN,L
+2022,Data Engineer,Analysis,59400,US,EN,FT,Remote,IN,M
+2021,Data Scientist,Data Science,176477,US,MI,CT,Remote,UK,S
+2022,Data Engineer,Data Science,147240,DE,SE,CT,Remote,CN,L
+2022,Data Scientist,ML/AI,82763,US,MI,FL,Inperson,UK,S
+2020,Data Scientist,,191281,JP,,CT,Remote,UK,
+2020,Data Engineer,Data Science,178496,UK,EX,CT,Inperson,JP,L
+2021,Data Engineer,Engineering,136810,UK,EN,FT,Inperson,DE,M
+2022,Data Scientist,Analysis,119523,MX,EX,FL,Inperson,DE,L
+2022,Statistician,Data Science,139955,UK,EN,CT,Remote,JP,M
+2020,Data Engineer,Analysis,181628,US,EN,FT,Remote,UK,L
+2021,Machine Learning Engineer,Data Science,123137,UK,SE,FL,Inperson,UK,S
+2020,Data Analyst,ML/AI,180402,CN,MI,FT,Inperson,IN,M
+2020,Data Scientist,Engineering,164308,US,MI,FL,Inperson,CN,M
+2020,Data Scientist,Data Science,60312,CN,EN,FL,Hybrid,UK,S
+2020,Data Analyst,Analysis,143687,JP,MI,PT,Hybrid,CN,L
+2022,Statistician,ML/AI,182263,CN,SE,PT,Remote,US,M
+2022,Data Analyst,Analysis,139602,JP,EN,PT,Hybrid,CN,L
+2020,Data Engineer,ML/AI,66640,DE,MI,CT,Inperson,UK,L
+2021,Data Analyst,Engineering,130171,DE,MI,FT,Inperson,IN,L
+2021,Data Scientist,ML/AI,92293,MX,EX,FL,Remote,US,S
+2021,Data Analyst,,144124,CN,,FT,Remote,IN,
+2021,Machine Learning Engineer,Analysis,197760,IN,MI,CT,Hybrid,CN,S
+2020,Data Engineer,Data Science,115802,JP,EX,PT,Inperson,IN,M
+2022,Data Analyst,ML/AI,122024,US,EN,PT,Remote,CN,L
+2021,Data Scientist,Analysis,185194,IN,EN,FT,Remote,DE,M
+2020,Data Engineer,Data Science,167403,JP,SE,FT,Hybrid,CN,L
+2021,Data Scientist,Engineering,141411,US,EX,FL,Remote,JP,M
+2021,Statistician,Analysis,72262,JP,EN,FT,Hybrid,IN,S
+2020,Machine Learning Engineer,Data Science,146214,JP,MI,FL,Inperson,UK,M
+2022,Statistician,Analysis,136435,US,MI,FL,Hybrid,DE,M
+2022,Machine Learning Engineer,ML/AI,116314,JP,MI,PT,Remote,MX,L
+2020,Data Analyst,Data Science,194998,JP,SE,FT,Hybrid,US,L
+2022,Data Engineer,ML/AI,116287,JP,EN,PT,Hybrid,CN,L
+2020,Data Analyst,Engineering,149318,MX,EX,FL,Inperson,JP,L
+2020,Machine Learning Engineer,ML/AI,160134,DE,EN,PT,Hybrid,DE,S
+2020,Machine Learning Engineer,Data Science,154958,UK,EX,PT,Remote,IN,M
+2022,Machine Learning Engineer,Analysis,47528,JP,EX,FL,Remote,MX,M
+2020,Data Scientist,Data Science,30068,MX,EN,CT,Inperson,MX,S
+2021,Data Engineer,ML/AI,99253,US,MI,CT,Inperson,DE,M
+2022,Data Analyst,ML/AI,110754,CN,MI,FT,Inperson,UK,L
+2022,Data Analyst,Analysis,120938,JP,EX,PT,Remote,UK,L
+2022,Statistician,Engineering,72129,MX,MI,FT,Hybrid,UK,L
+2022,Machine Learning Engineer,Data Science,143996,DE,SE,PT,Remote,JP,M
+2021,Machine Learning Engineer,Analysis,91321,MX,SE,FT,Remote,MX,S
+2022,Machine Learning Engineer,Analysis,41526,DE,EX,FT,Inperson,DE,S
+2022,Data Analyst,Analysis,187781,CN,MI,FL,Inperson,DE,M
+2020,Statistician,,137535,JP,,CT,Hybrid,MX,
+2022,Data Scientist,Data Science,45063,IN,SE,CT,Hybrid,IN,S
+2021,Data Engineer,Data Science,165795,CN,SE,CT,Hybrid,US,L
+2021,Data Scientist,Engineering,34213,UK,SE,FL,Hybrid,UK,M
+2021,Data Analyst,Analysis,52797,US,EN,CT,Remote,US,S
+2021,Machine Learning Engineer,,114946,MX,,FL,Hybrid,MX,
+2022,Data Engineer,ML/AI,118918,US,MI,PT,Remote,MX,L
+2022,Data Analyst,Analysis,53655,US,EN,FL,Remote,US,L
+2021,Data Analyst,ML/AI,173659,US,SE,FT,Hybrid,UK,S
+2021,Data Analyst,Engineering,52555,DE,MI,FT,Hybrid,UK,M
+2022,Data Engineer,Engineering,58071,MX,SE,PT,Remote,IN,M
+2021,Data Engineer,Data Science,50239,UK,MI,PT,Inperson,JP,L
+2020,Statistician,Data Science,153441,JP,MI,FT,Hybrid,UK,L
+2021,Statistician,,127138,JP,,CT,Inperson,US,
+2021,Data Scientist,Data Science,79151,IN,SE,CT,Remote,MX,S
+2020,Data Engineer,Data Science,32203,JP,EN,CT,Inperson,IN,M
+2020,Data Engineer,ML/AI,174707,UK,SE,PT,Remote,DE,S
+2022,Data Engineer,,162216,JP,,FT,Inperson,MX,
+2022,Statistician,Data Science,193771,DE,EX,FL,Inperson,IN,L
+2020,Data Analyst,Engineering,121663,CN,EN,PT,Inperson,UK,S
+2020,Machine Learning Engineer,ML/AI,159844,JP,MI,FT,Remote,MX,S
+2022,Statistician,Engineering,42213,US,MI,CT,Remote,CN,S
+2021,Data Engineer,Engineering,46944,US,EX,CT,Remote,UK,L
+2020,Statistician,Analysis,96723,CN,SE,CT,Hybrid,JP,S
+2022,Data Scientist,Analysis,98947,US,MI,FT,Remote,IN,S
+2021,Data Engineer,Data Science,195529,US,EX,CT,Hybrid,UK,L
+2020,Data Scientist,Engineering,65191,DE,EX,FT,Remote,US,M
+2021,Data Engineer,,102264,DE,,PT,Hybrid,US,
+2022,Statistician,Analysis,194816,DE,EX,FL,Inperson,IN,L
+2020,Data Analyst,Analysis,193958,JP,EX,CT,Inperson,MX,S
+2021,Machine Learning Engineer,Engineering,129846,CN,EX,PT,Remote,JP,S
+2020,Data Scientist,Analysis,149550,US,EX,PT,Hybrid,CN,M
+2021,Statistician,Analysis,114963,IN,EX,FT,Inperson,IN,L
+2022,Data Analyst,ML/AI,30972,CN,EX,PT,Inperson,JP,M
+2022,Statistician,Engineering,129219,IN,MI,FT,Hybrid,US,M
+2020,Data Scientist,Analysis,167693,US,EN,FT,Remote,UK,L
+2021,Machine Learning Engineer,Engineering,79738,UK,SE,PT,Inperson,DE,M
+2020,Statistician,Analysis,84777,CN,EN,FT,Remote,UK,S
+2020,Data Engineer,ML/AI,44530,JP,SE,FT,Remote,US,L
+2021,Data Analyst,Engineering,168426,IN,EN,FT,Hybrid,CN,L
+2021,Statistician,,76529,CN,,PT,Hybrid,MX,
+2021,Data Analyst,ML/AI,132895,CN,EX,FL,Inperson,US,S
+2022,Data Engineer,Analysis,81714,DE,EN,FT,Hybrid,UK,S
+2020,Machine Learning Engineer,Engineering,154750,UK,EN,CT,Inperson,UK,M
+2020,Machine Learning Engineer,Analysis,150883,DE,SE,PT,Inperson,CN,M
+2022,Data Engineer,Engineering,173622,UK,SE,PT,Inperson,CN,M
+2021,Data Analyst,Engineering,118196,UK,MI,FT,Remote,US,M
+2022,Statistician,Analysis,90385,JP,EX,PT,Remote,UK,M
+2022,Data Engineer,ML/AI,94736,CN,EX,CT,Hybrid,MX,M
+2022,Data Scientist,Data Science,60268,DE,MI,FL,Hybrid,DE,L
+2020,Data Analyst,ML/AI,165362,DE,SE,PT,Inperson,DE,L
+2022,Machine Learning Engineer,ML/AI,60138,IN,EX,PT,Inperson,IN,L
+2020,Data Engineer,Analysis,154650,CN,SE,PT,Remote,DE,L
+2020,Machine Learning Engineer,ML/AI,43432,US,EX,FT,Remote,US,L
+2020,Data Analyst,ML/AI,97058,US,EN,CT,Inperson,US,L
+2021,Machine Learning Engineer,Data Science,88175,IN,EN,FL,Inperson,IN,M
+2020,Data Engineer,ML/AI,63329,UK,EX,CT,Hybrid,MX,L
+2020,Data Analyst,Data Science,173400,IN,EX,CT,Inperson,JP,S
+2021,Data Scientist,Analysis,195319,IN,EX,PT,Inperson,MX,L
+2020,Data Engineer,Data Science,36677,DE,MI,FL,Inperson,IN,S
+2022,Statistician,Engineering,80357,IN,EX,CT,Remote,JP,S
+2022,Data Engineer,,85812,MX,,FL,Remote,JP,
+2020,Data Analyst,Data Science,71616,UK,MI,FT,Hybrid,UK,M
+2021,Data Engineer,Engineering,75534,US,EN,PT,Hybrid,CN,M
+2022,Data Scientist,Analysis,94162,JP,EX,FT,Hybrid,DE,S
+2021,Data Scientist,,74711,CN,,FL,Inperson,MX,
+2021,Statistician,Data Science,183877,IN,EN,PT,Inperson,JP,S
+2022,Machine Learning Engineer,Analysis,125980,CN,MI,FT,Remote,UK,M
+2021,Data Analyst,Engineering,50143,IN,SE,PT,Inperson,IN,M
+2022,Data Analyst,Analysis,138380,MX,MI,FT,Inperson,IN,M
+2021,Machine Learning Engineer,Data Science,177089,CN,EN,CT,Remote,MX,M
+2022,Data Scientist,Engineering,71423,DE,MI,PT,Hybrid,MX,L
+2020,Data Scientist,,71713,DE,,FL,Inperson,JP,
+2022,Data Engineer,Analysis,104310,CN,MI,PT,Remote,MX,L
+2022,Statistician,Engineering,32205,IN,EX,FL,Remote,UK,S
+2022,Statistician,Analysis,83266,MX,MI,FT,Hybrid,US,L
+2022,Statistician,Analysis,173414,MX,EN,FT,Remote,MX,L
+2021,Data Engineer,Data Science,111863,IN,MI,FL,Hybrid,CN,L
+2020,Statistician,Data Science,182272,UK,EX,FT,Hybrid,CN,M
+2022,Machine Learning Engineer,Data Science,168260,US,EN,PT,Hybrid,DE,M
+2021,Data Engineer,Data Science,156233,US,MI,FT,Hybrid,JP,M
+2020,Machine Learning Engineer,Data Science,32808,MX,EN,FL,Hybrid,US,M
+2020,Data Engineer,Data Science,43851,JP,EX,FL,Remote,DE,M
+2020,Statistician,Engineering,160982,US,SE,CT,Inperson,US,L
+2020,Machine Learning Engineer,Data Science,176130,JP,EX,FL,Hybrid,CN,L
+2022,Machine Learning Engineer,,44620,DE,,FT,Hybrid,UK,
+2022,Machine Learning Engineer,Engineering,92995,JP,EN,FL,Inperson,MX,M
+2021,Data Engineer,Analysis,66681,JP,EN,FT,Inperson,JP,L
+2021,Data Analyst,,94509,US,,FT,Hybrid,US,
+2021,Statistician,Data Science,97703,MX,SE,CT,Inperson,US,M
+2020,Machine Learning Engineer,Analysis,72136,IN,SE,FT,Hybrid,US,S
+2020,Data Analyst,,123699,MX,,FL,Remote,CN,
+2022,Statistician,Analysis,118456,DE,EX,FL,Inperson,JP,L
+2020,Statistician,ML/AI,113086,UK,SE,FL,Inperson,UK,S
+2020,Machine Learning Engineer,ML/AI,197415,JP,SE,FT,Remote,UK,M
+2020,Machine Learning Engineer,ML/AI,147529,JP,SE,FL,Inperson,US,L
+2021,Data Engineer,ML/AI,48254,CN,MI,PT,Remote,UK,L
+2021,Data Analyst,Engineering,91273,JP,MI,PT,Hybrid,DE,L
+2022,Data Analyst,Data Science,147574,MX,SE,FL,Inperson,UK,M
+2020,Machine Learning Engineer,Analysis,144847,IN,EX,FT,Inperson,US,M
+2020,Statistician,Data Science,135547,UK,EN,FL,Remote,DE,S
+2022,Machine Learning Engineer,Analysis,42926,MX,EX,PT,Hybrid,JP,L
+2020,Statistician,,119527,CN,,FT,Hybrid,IN,
+2020,Statistician,Engineering,137387,MX,SE,FL,Remote,CN,S
+2021,Machine Learning Engineer,ML/AI,57563,US,MI,FT,Inperson,UK,M
+2022,Data Scientist,Data Science,191760,DE,MI,FL,Inperson,MX,L
+2022,Data Analyst,Analysis,195202,IN,EN,CT,Remote,DE,S
+2022,Statistician,Data Science,30925,UK,SE,FT,Remote,IN,L
+2022,Statistician,Engineering,81595,DE,MI,PT,Remote,JP,M
+2021,Data Scientist,Engineering,160249,US,SE,PT,Inperson,IN,M
+2021,Data Engineer,Data Science,46321,DE,SE,PT,Remote,JP,S
+2020,Data Scientist,ML/AI,171841,CN,EN,PT,Hybrid,US,S
+2020,Data Scientist,Analysis,197820,JP,SE,FL,Remote,US,L
+2020,Statistician,Engineering,46151,JP,SE,FL,Hybrid,CN,M
+2020,Data Analyst,Engineering,106133,IN,EN,FT,Hybrid,CN,M
+2021,Data Scientist,Data Science,64187,DE,MI,CT,Remote,JP,S
+2022,Data Engineer,Engineering,73835,MX,EX,CT,Hybrid,IN,S
+2021,Machine Learning Engineer,Engineering,30059,JP,SE,FT,Inperson,CN,L
+2020,Data Scientist,Analysis,57235,IN,EN,PT,Remote,UK,M
+2021,Data Scientist,ML/AI,124208,IN,MI,CT,Inperson,IN,L
+2022,Data Engineer,Analysis,97114,CN,SE,CT,Inperson,CN,L
+2022,Data Analyst,ML/AI,159191,IN,EX,FT,Hybrid,IN,S
+2021,Data Scientist,,142831,US,,PT,Inperson,MX,
+2021,Data Scientist,,151889,MX,,FL,Inperson,UK,
+2021,Data Analyst,Engineering,111583,JP,SE,FL,Remote,IN,L
+2020,Data Engineer,,62160,JP,,CT,Remote,IN,
+2021,Data Scientist,Data Science,129011,UK,EX,FL,Inperson,DE,M
+2021,Data Analyst,Engineering,35277,US,EX,FT,Hybrid,JP,M
+2021,Data Scientist,Engineering,162852,JP,EN,CT,Hybrid,US,M
+2022,Machine Learning Engineer,Engineering,147101,CN,SE,CT,Remote,CN,M
+2022,Statistician,Analysis,90750,JP,EN,PT,Remote,MX,S
+2020,Machine Learning Engineer,Data Science,86902,UK,MI,FL,Remote,CN,S
+2020,Data Scientist,Data Science,146849,DE,EN,PT,Hybrid,CN,S
+2022,Data Engineer,Engineering,127052,DE,EX,CT,Remote,JP,S
+2022,Statistician,ML/AI,157894,US,SE,FL,Inperson,IN,L
+2022,Machine Learning Engineer,Data Science,193233,IN,SE,PT,Hybrid,UK,S
+2021,Data Analyst,Analysis,192958,UK,EX,FL,Inperson,UK,S
+2021,Data Engineer,ML/AI,169872,UK,EX,CT,Remote,US,M
+2022,Machine Learning Engineer,ML/AI,79460,JP,MI,CT,Hybrid,US,L
+2021,Data Analyst,ML/AI,159424,CN,EX,CT,Remote,US,S
+2021,Data Scientist,ML/AI,100975,JP,EX,FT,Hybrid,UK,L
+2020,Data Analyst,Data Science,163436,CN,EX,PT,Remote,IN,L
+2022,Machine Learning Engineer,Engineering,46568,UK,SE,PT,Hybrid,US,L
+2022,Machine Learning Engineer,ML/AI,199164,IN,EX,CT,Hybrid,US,L
+2021,Data Scientist,Analysis,92679,DE,EN,PT,Hybrid,MX,M
+2022,Data Analyst,Analysis,95781,US,EN,CT,Inperson,UK,M
+2020,Data Analyst,Engineering,38430,MX,SE,PT,Remote,CN,L
+2020,Data Scientist,Data Science,68692,CN,MI,FL,Remote,IN,L
+2020,Data Analyst,Engineering,60086,DE,MI,PT,Hybrid,US,L
+2022,Data Scientist,ML/AI,79671,US,SE,CT,Inperson,IN,M
+2022,Data Engineer,Data Science,174973,IN,EN,PT,Hybrid,DE,M
+2022,Machine Learning Engineer,,33907,UK,,FL,Remote,CN,
+2022,Data Engineer,ML/AI,58604,IN,EX,FL,Remote,CN,L
+2022,Statistician,,67869,CN,,FL,Hybrid,US,
+2020,Statistician,ML/AI,175609,UK,MI,CT,Hybrid,US,L
+2021,Statistician,Engineering,173573,JP,EN,FT,Hybrid,MX,M
+2020,Data Scientist,ML/AI,149261,US,MI,CT,Remote,UK,S
+2022,Data Analyst,Analysis,198443,JP,MI,FL,Hybrid,CN,S
+2020,Data Engineer,ML/AI,144639,UK,EN,PT,Hybrid,MX,M
+2022,Data Engineer,Engineering,141690,MX,EX,FL,Remote,DE,M
+2022,Data Engineer,Engineering,197893,US,EN,FT,Hybrid,DE,S
+2020,Data Engineer,Analysis,155592,US,EN,FT,Inperson,DE,S
+2022,Statistician,Engineering,36073,JP,SE,FL,Remote,JP,S
+2021,Data Engineer,Engineering,48101,US,EN,CT,Hybrid,UK,L
+2022,Data Analyst,ML/AI,192498,UK,SE,FT,Hybrid,UK,S
+2021,Statistician,,,MX,,FL,Remote,US,
+2021,Data Engineer,Engineering,37313,CN,EN,CT,Remote,UK,L
+2022,Data Scientist,Engineering,191845,CN,EX,PT,Inperson,US,L
+2020,Machine Learning Engineer,,189075,UK,,CT,Hybrid,MX,
+2021,Machine Learning Engineer,Analysis,89668,JP,SE,FT,Hybrid,US,L
+2020,Machine Learning Engineer,ML/AI,121956,IN,EX,CT,Hybrid,JP,S
+2021,Statistician,ML/AI,145087,UK,SE,CT,Remote,MX,L
+2022,Data Engineer,Engineering,149451,CN,SE,PT,Remote,UK,M
+2022,Statistician,Data Science,122675,UK,EX,FL,Remote,UK,S
+2021,Data Analyst,Data Science,121634,US,MI,CT,Hybrid,JP,M
+2022,Data Scientist,ML/AI,174654,US,EN,PT,Hybrid,JP,M
+2021,Data Scientist,Analysis,139119,UK,EN,FT,Remote,MX,M
+2022,Machine Learning Engineer,Engineering,174832,JP,EN,FL,Inperson,MX,L
+2020,Machine Learning Engineer,Engineering,101791,IN,EN,FT,Hybrid,UK,L
+2022,Machine Learning Engineer,Data Science,112158,US,EN,FL,Inperson,UK,M
+2020,Data Engineer,ML/AI,197055,CN,EN,CT,Remote,MX,M
+2022,Data Analyst,,59715,MX,,CT,Hybrid,US,
+2020,Data Analyst,Data Science,197487,US,EN,FL,Inperson,IN,M
+2022,Data Analyst,ML/AI,118260,CN,SE,FT,Hybrid,CN,L
+2020,Data Analyst,Analysis,164724,MX,EX,FT,Inperson,US,L
+2021,Machine Learning Engineer,Engineering,56297,IN,MI,FT,Hybrid,DE,M
+2021,Data Scientist,Analysis,175100,MX,SE,CT,Inperson,DE,L
+2020,Machine Learning Engineer,ML/AI,174875,US,MI,FL,Inperson,IN,S
+2022,Data Analyst,ML/AI,36307,MX,EX,FL,Remote,CN,L
+2020,Machine Learning Engineer,Engineering,192397,JP,EN,FT,Remote,JP,M
+2022,Data Analyst,Analysis,88616,CN,MI,CT,Inperson,DE,L
+2021,Statistician,Engineering,192646,US,MI,FL,Hybrid,JP,S
+2022,Data Scientist,Data Science,,US,EX,FL,Inperson,JP,S
+2021,Statistician,Data Science,176004,UK,EX,FT,Hybrid,US,L
+2022,Data Engineer,Data Science,176821,JP,EX,FT,Hybrid,JP,S
+2022,Machine Learning Engineer,Analysis,38727,JP,SE,FL,Hybrid,IN,S
+2022,Data Engineer,Data Science,47332,UK,SE,CT,Hybrid,US,L
+2020,Machine Learning Engineer,Engineering,171906,MX,MI,PT,Remote,IN,L
+2020,Statistician,Analysis,181397,CN,EX,FL,Inperson,JP,L
+2021,Data Analyst,Engineering,170285,DE,MI,FL,Hybrid,DE,M
+2021,Data Analyst,,,IN,,CT,Remote,CN,
+2020,Machine Learning Engineer,Analysis,162475,JP,EX,FL,Hybrid,JP,S
+2021,Data Analyst,Engineering,86971,DE,SE,PT,Hybrid,IN,S
+2020,Statistician,Engineering,,CN,EX,CT,Remote,UK,L
+2022,Data Analyst,Analysis,125195,IN,MI,PT,Remote,UK,S
+2021,Statistician,,168663,JP,,PT,Hybrid,DE,
+2021,Data Engineer,Analysis,157144,US,EN,FL,Inperson,MX,M
+2020,Statistician,Data Science,42996,JP,EN,PT,Remote,CN,L
+2021,Data Scientist,Data Science,82485,IN,MI,FL,Inperson,IN,S
+2021,Data Scientist,ML/AI,77830,MX,EX,FL,Hybrid,DE,L
+2022,Data Scientist,Engineering,64370,DE,EN,CT,Hybrid,US,L
+2021,Machine Learning Engineer,Engineering,87572,MX,MI,CT,Hybrid,JP,L
+2022,Machine Learning Engineer,Engineering,59098,US,SE,CT,Hybrid,MX,S
+2020,Machine Learning Engineer,Analysis,32196,IN,SE,FL,Hybrid,US,L
+2021,Statistician,Analysis,172163,CN,MI,PT,Hybrid,UK,L
+2022,Machine Learning Engineer,ML/AI,79262,MX,EX,PT,Inperson,JP,S
+2020,Data Engineer,Data Science,167095,IN,EX,CT,Remote,US,M
+2021,Data Scientist,Engineering,,JP,EX,CT,Hybrid,UK,M
+2020,Statistician,Data Science,132171,CN,EX,FL,Remote,CN,S
+2021,Data Scientist,Analysis,100540,UK,MI,FT,Inperson,US,M
+2020,Machine Learning Engineer,Analysis,171035,UK,MI,FT,Hybrid,JP,L
+2020,Statistician,Analysis,174868,MX,SE,FL,Hybrid,US,S
+2022,Data Analyst,Data Science,70972,US,SE,FT,Remote,MX,L
+2020,Data Engineer,ML/AI,102613,IN,EX,FT,Remote,MX,L
+2021,Machine Learning Engineer,ML/AI,125384,DE,EN,FT,Remote,JP,S
+2021,Machine Learning Engineer,Analysis,108062,US,EN,CT,Hybrid,US,L
+2022,Data Engineer,Engineering,33261,CN,SE,PT,Remote,DE,S
+2021,Data Engineer,,47046,MX,,PT,Remote,CN,
+2021,Data Analyst,Analysis,43397,US,MI,CT,Inperson,US,M
+2021,Machine Learning Engineer,Data Science,120805,MX,SE,CT,Hybrid,US,L
+2020,Machine Learning Engineer,Data Science,55757,JP,SE,CT,Hybrid,MX,L
+2020,Data Scientist,ML/AI,176371,CN,EX,FT,Hybrid,MX,S
+2021,Statistician,Analysis,,DE,EN,FL,Remote,DE,M
+2022,Statistician,ML/AI,148859,IN,EN,FL,Inperson,MX,L
+2020,Data Scientist,Analysis,72399,CN,MI,FT,Remote,UK,L
+2022,Statistician,,78330,IN,,FT,Hybrid,JP,
+2021,Data Engineer,,164918,IN,,CT,Remote,IN,
+2021,Statistician,Data Science,173431,US,EX,CT,Hybrid,UK,M
+2020,Statistician,Analysis,98056,JP,MI,PT,Remote,JP,M
+2021,Data Scientist,Engineering,70832,US,SE,CT,Remote,US,M
+2020,Data Analyst,ML/AI,181170,UK,SE,FT,Hybrid,UK,L
+2021,Statistician,ML/AI,147095,UK,EX,PT,Remote,US,M
+2021,Statistician,Data Science,134987,IN,MI,CT,Hybrid,UK,M
+2020,Data Analyst,,,JP,,PT,Remote,UK,
+2020,Data Scientist,Engineering,65885,CN,EN,PT,Remote,IN,S
+2020,Data Analyst,ML/AI,51157,IN,EN,CT,Remote,DE,L
+2021,Data Scientist,Analysis,49674,CN,EX,FL,Hybrid,UK,S
+2021,Data Engineer,,62357,IN,,FT,Remote,MX,
+2022,Data Scientist,ML/AI,42578,US,EN,FT,Remote,US,S
+2020,Data Engineer,,158457,IN,,PT,Inperson,IN,
+2021,Data Engineer,ML/AI,163323,IN,SE,FL,Inperson,UK,S
+2021,Data Scientist,Engineering,198501,JP,EN,FL,Hybrid,MX,S
+2020,Machine Learning Engineer,Analysis,186571,JP,EX,CT,Hybrid,DE,S
+2022,Data Scientist,Analysis,167493,MX,SE,CT,Hybrid,US,M
+2020,Statistician,,185663,CN,,FT,Hybrid,IN,
+2022,Statistician,Data Science,133229,JP,EN,CT,Remote,JP,S
+2021,Machine Learning Engineer,ML/AI,173274,IN,MI,CT,Remote,CN,M
+2022,Data Engineer,Data Science,153981,JP,EN,PT,Hybrid,DE,L
+2021,Machine Learning Engineer,Engineering,180362,JP,EN,FL,Hybrid,MX,L
+2020,Statistician,Analysis,179202,DE,EN,FL,Inperson,JP,L
+2020,Machine Learning Engineer,Analysis,67077,DE,EN,CT,Hybrid,JP,L
+2020,Data Scientist,Data Science,145136,UK,EN,CT,Inperson,IN,M
+2022,Machine Learning Engineer,ML/AI,,US,EX,CT,Hybrid,IN,L
+2021,Data Engineer,,90530,MX,,FT,Hybrid,IN,
+2020,Data Scientist,,148179,MX,,FT,Remote,MX,
+2020,Data Analyst,Engineering,57122,US,SE,PT,Hybrid,MX,L
+2021,Statistician,Analysis,59381,JP,EX,FT,Inperson,JP,M
+2020,Statistician,Engineering,135614,UK,MI,FL,Remote,CN,S
+2021,Machine Learning Engineer,Analysis,184339,UK,EN,FT,Inperson,US,S
+2021,Data Scientist,Engineering,143271,CN,MI,FL,Hybrid,IN,M
+2021,Data Analyst,Data Science,168160,MX,SE,FT,Remote,DE,M
+2021,Data Scientist,Engineering,127354,DE,MI,FT,Inperson,IN,S
+2021,Statistician,Engineering,157728,UK,EN,PT,Hybrid,CN,S
+2022,Data Scientist,Data Science,42822,IN,SE,CT,Inperson,IN,L
+2020,Data Analyst,Analysis,197661,CN,EN,CT,Hybrid,CN,M
+2022,Machine Learning Engineer,Analysis,162508,MX,EN,CT,Inperson,IN,S
+2020,Data Engineer,Data Science,141201,JP,EX,PT,Hybrid,JP,S
+2022,Data Scientist,Engineering,57281,IN,SE,FL,Inperson,CN,M
+2021,Data Engineer,Engineering,118017,US,SE,FT,Remote,US,M
+2020,Statistician,Engineering,126005,MX,EN,PT,Hybrid,IN,S
+2020,Machine Learning Engineer,ML/AI,114403,DE,MI,FL,Hybrid,JP,M
+2022,Machine Learning Engineer,,136023,IN,,PT,Inperson,DE,
+2022,Data Scientist,Engineering,52766,JP,MI,PT,Hybrid,US,S
+2020,Machine Learning Engineer,Analysis,,IN,MI,FL,Remote,JP,L
+2022,Data Scientist,Engineering,123891,IN,SE,CT,Inperson,CN,L
+2022,Data Scientist,Data Science,92239,UK,MI,FT,Inperson,UK,M
+2022,Data Engineer,Data Science,183609,DE,SE,CT,Inperson,DE,M
+2021,Machine Learning Engineer,Analysis,163866,US,EX,PT,Remote,DE,S
+2021,Data Scientist,Analysis,193396,JP,SE,FL,Remote,UK,L
+2022,Data Engineer,Data Science,86764,CN,SE,PT,Hybrid,JP,M
+2022,Data Analyst,ML/AI,60858,CN,SE,CT,Inperson,JP,S
+2021,Data Engineer,Data Science,,JP,EX,CT,Remote,MX,L
+2021,Data Engineer,Engineering,174090,US,MI,CT,Hybrid,CN,S
+2020,Data Scientist,ML/AI,157171,JP,EX,FT,Remote,DE,L
+2020,Statistician,Data Science,113017,UK,MI,CT,Remote,MX,S
+2021,Statistician,ML/AI,80790,CN,SE,FT,Remote,JP,L
+2022,Statistician,ML/AI,111120,MX,SE,FT,Hybrid,UK,S
+2022,Data Engineer,ML/AI,39850,CN,EX,CT,Remote,MX,S
+2022,Data Scientist,Analysis,136759,MX,EX,FL,Remote,JP,M
+2022,Machine Learning Engineer,Data Science,95696,IN,EX,PT,Remote,DE,L
+2020,Data Engineer,Analysis,186904,UK,EX,PT,Inperson,JP,L
+2021,Data Engineer,Analysis,117826,CN,SE,FT,Remote,US,M
+2022,Data Scientist,Engineering,185958,UK,SE,FT,Inperson,UK,M
+2020,Data Analyst,Engineering,169490,UK,EN,FT,Remote,UK,S
+2022,Data Engineer,ML/AI,153152,US,EX,PT,Inperson,IN,L
+2021,Data Analyst,ML/AI,37081,CN,EX,FT,Remote,JP,S
+2020,Data Analyst,Engineering,132716,MX,MI,FL,Inperson,CN,S
+2021,Statistician,Engineering,171186,DE,MI,FL,Inperson,UK,S
+2021,Data Scientist,Data Science,48722,MX,SE,FT,Inperson,JP,M
+2020,Data Analyst,ML/AI,117508,US,EN,PT,Remote,US,L
+2020,Data Scientist,ML/AI,159752,US,EX,CT,Hybrid,MX,M
+2020,Statistician,Engineering,47985,UK,EN,PT,Inperson,DE,M
+2020,Data Scientist,Data Science,166960,DE,EN,CT,Inperson,DE,L
+2020,Data Engineer,,150234,US,,CT,Inperson,IN,
+2020,Data Analyst,Engineering,113845,DE,EN,FT,Inperson,IN,M
+2020,Data Scientist,,153446,CN,,FL,Inperson,CN,
+2022,Machine Learning Engineer,ML/AI,180371,UK,SE,FT,Hybrid,UK,M
+2021,Data Scientist,Data Science,136747,US,EN,CT,Remote,CN,L
+2020,Data Analyst,Analysis,52036,DE,SE,FT,Hybrid,UK,L
+2022,Statistician,ML/AI,59346,JP,SE,CT,Remote,UK,S
+2022,Statistician,Engineering,143507,MX,MI,FT,Hybrid,US,L
+2022,Data Analyst,,144673,US,,FL,Remote,IN,
+2021,Data Engineer,ML/AI,56691,US,EN,FL,Inperson,IN,L
+2020,Data Engineer,Engineering,135578,US,MI,PT,Remote,DE,L
+2022,Statistician,Analysis,47986,DE,EX,CT,Remote,IN,L
+2021,Statistician,Data Science,188918,IN,EX,CT,Inperson,IN,M
+2021,Data Analyst,ML/AI,79665,CN,EX,FT,Inperson,US,S
+2021,Data Engineer,Analysis,143408,MX,EX,PT,Remote,CN,S
+2022,Statistician,Engineering,103728,US,EX,FL,Remote,UK,M
+2020,Data Engineer,Engineering,80054,JP,EN,FT,Inperson,CN,M
+2022,Statistician,ML/AI,,JP,SE,PT,Hybrid,MX,S
+2022,Data Scientist,,,UK,,FL,Inperson,MX,
+2020,Machine Learning Engineer,Data Science,111499,IN,SE,FT,Remote,US,L
+2020,Data Scientist,ML/AI,129159,IN,SE,FL,Remote,JP,L
+2020,Statistician,Analysis,96553,DE,EN,CT,Remote,DE,S
+2021,Machine Learning Engineer,ML/AI,,UK,EN,PT,Inperson,DE,L
